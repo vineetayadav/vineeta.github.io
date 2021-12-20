@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+
+
+
+.row-img-shoot {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create four equal columns that sits next to each other */
+.column-img-shoot {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+}
+
+.column-img-shoot, .img-non-for-shot {
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column-img-shoot {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column-img-shoot {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+</style>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Responsive Image Grid</h1>
+  <p>Resize the browser window to see the responsive effect.</p>
+</div>
+
+<!-- Photo Grid -->
+<div class="row-img-shoot"> 
+  <div class="column-img-shoot">
+    <img class="img-non-for-shot" src="/d.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/footer.png" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_01.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_02.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_03.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/gi.gif" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_02.jpg" style="width:100%">
+  </div>
+  <div class="column-img-shoot">
+    <img class="img-non-for-shot" src="/a.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/11 (2).gif" style="width:100%">
+    <img class="img-non-for-shot" src="/d.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/w3images/mountainskies.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/footer.png" style="width:100%">
+    <img class="img-non-for-shot" src="/a.jpg" style="width:100%">
+  </div>  
+  <div class="column-img-shoot">
+    <img class="img-non-for-shot" src="/d.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/footer.png" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_01.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_02.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_03.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/gi.gif" style="width:100%">
+    <img class="img-non-for-shot" src="/fw_al_007_02.jpg" style="width:100%">
+  </div>
+  <div class="column-img-shoot">
+    <img class="img-non-for-shot" src="/a.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/11 (2).gif" style="width:100%">
+    <img class="img-non-for-shot" src="/d.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/w3images/mountainskies.jpg" style="width:100%">
+    <img class="img-non-for-shot" src="/footer.png" style="width:100%">
+    <img class="img-non-for-shot" src="/a.jpg" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,653 @@
+#color-change-with-blue{
+    background-image: linear-gradient(to bottom ,#ffb300,#2299aa);
+    padding: 3em;
+    padding-bottom: 0px;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#we-dsgn-both-2-animate-text-first-wali{
+    margin-left: 3em;
+    padding-top: 5em;
+    width: 38%;
+}
+.we-dsgn-both-2-animate-text2up{
+    width: 100%;
+    font-size: xx-large;
+    height: 5em;
+}
+
+.defin-btn-in-first-text-animt{
+    padding: 1em;
+    margin-top: 5em;
+    margin-left: 2em;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 40px;
+    font-size: large;
+    cursor: pointer;
+    box-shadow: 8px 8px rgb(0, 0,0, 0.35);
+}
+.defin-btn-in-first-text-animt:hover{
+    background-color: #ffb300;
+    color: blue;
+}
+
+
+
+#web-design-2nd-full-animta{
+    margin-left: 4em;
+    width: 50%;
+    margin-bottom: 0px;
+}
+
+
+#animatie-img-gif-main-web-design{
+    height: 450px;
+    width: 680px;
+    background-image: url(/contant/image/servise/web-design-animate.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.cloud11{ 
+    margin-top: -5.7rem;
+    margin-left: 51.5vh;
+    width: 200px;
+    height: 60px;
+    background-color: #ECEFF1;
+    box-shadow: 10px 10px rgba(0,0,0,0.2);
+    border-radius: 100px;
+}
+
+.cloud11::after, .cloud11::before, .cloud12::after, .cloud12::before{
+    content: "";
+    position: relative;
+    display: inline-block;
+    background: inherit;
+    border-radius: inherit;
+}
+.cloud11::after, .cloud12::after{
+    width: 60px;
+    height: 60px;
+    top: -70px;
+    left: -60px;
+}
+.cloud11::before, .cloud12::before{
+    width: 100px;
+    height: 100px;
+    top: -53px;
+    left: 80px;
+}
+
+.cloud12{ 
+    margin-left: 60%;
+    width: 200px;
+    height: 60px;
+    background-color: #ECEFF1;
+    box-shadow: 10px 10px rgba(0,0,0,0.2);
+    border-radius: 100px;
+}
+
+
+
+
+
+
+#setting-imgae-loader1{
+    background-image: url(/contant/image/servise/setting-rotate.png);
+    margin-left: 81%;
+    margin-top: 1%;
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+  
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+  
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#setting-imgae-loader2{
+    background-image: url(/contant/image/servise/setting-rotate.png);
+    background-size: cover;
+    margin-left: 78.5%;
+    margin-top: -4%;
+    position: relative;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spinback 2s linear infinite;
+    animation: spinback 2s linear infinite;
+}
+@-webkit-keyframes spinback {
+    0% { -webkit-transform: rotate(360deg); }
+    100% { -webkit-transform: rotate(0deg); }
+}
+  
+@keyframes spinback {
+    0% { transform: rotate(360deg); }
+    100% { transform: rotate(0deg); }
+}
+
+
+
+
+
+
+@media all and (max-width: 1331px) {
+    #we-dsgn-both-2-animate-text-first-wali{
+        padding-left: 0px;
+    }
+    #color-change-with-blue{
+        padding-left: 1em;
+    }
+    #web-design-2nd-full-animta{
+        margin-left: 1em;
+    }
+    .cloud11{
+        margin-top: -4rem;
+    }
+
+}
+@media all and (max-width: 1211px) {
+    #setting-imgae-loader2{
+        margin-left: -25%;
+        margin-top: 15%;
+    }
+    #animatie-img-gif-main-web-design{
+        width: 600px;
+    }
+    .defin-btn-in-first-text-animt{
+        margin-top: 9em;
+    }
+}
+@media all and (max-width: 1115px) {
+    #animatie-img-gif-main-web-design{
+        width: 500px;
+        height: auto;
+    }
+}
+@media all and (max-width: 980px) {
+    .we-dsgn-both-2-animate-text2up{
+        font-size: x-large;
+    }
+    #we-dsgn-both-2-animate-text-first-wali{
+        width: 30%;
+    }
+    .cloud11{
+        margin-top: -5.8rem;
+        margin-left: 27vh;
+    }
+
+}
+@media all and (max-width: 870px) {
+    #animatie-img-gif-main-web-design{
+        width: 400px;
+    }
+    #setting-imgae-loader2{
+        margin-left: 19%;
+    }
+    #setting-imgae-loader1{
+        margin-left: 85%;
+    }
+}
+
+
+
+@media all and (max-width: 780px) {
+    #we-dsgn-both-2-animate-text-first-wali{
+        width: 100%;
+        font-size: xx-large;
+        padding-top: 1em;
+    }
+    .defin-btn-in-first-text-animt{
+        margin-top: 1em;
+    }
+    .cloud11{
+        display: none;
+    }
+    #animatie-img-gif-main-web-design{
+        margin-left: 40%;
+    }
+    #setting-imgae-loader1{
+        margin-left: 89%;
+        width: 70px;
+        height: 70px;
+    }
+    #setting-imgae-loader2{
+        margin-left: -18%;
+        width: 70px;
+        height: 70px;
+    }
+}
+@media all and (max-width: 576px) {
+    #animatie-img-gif-main-web-design{
+        margin-left: 10%;
+    }
+}
+
+@media all and (max-width: 500px) {
+    #exp-anim-text-web{
+        font-size: x-large;
+    }
+    #we-dsgn-both-2-animate-text-first-wali{
+        padding-top: 0em;
+        margin-left: 0.5em;
+    }
+    .defin-btn-in-first-text-animt{
+        margin-top: 0em;
+        padding: 8px;
+        font-size: large;
+    }
+    .cloud12{
+        width: 100px;
+        height: 30px;
+        box-shadow: 5px 5px rgba(0,0,0,0.2);
+        border-radius: 50px;
+    }
+    .cloud12::after{
+        width: 40px;
+        height: 40px;
+        top: -40px;
+        left: -40px;
+    }
+    .cloud12::before{
+        height: 55px;
+        width: 55px;
+        top: -30px;
+        left: 40px;
+    }
+    #setting-imgae-loader1{
+        margin-left: 80%;
+    }
+    #setting-imgae-loader2{
+        margin-left: -7%;
+    }
+    #animatie-img-gif-main-web-design{
+        width: 180%;
+    }
+}
+
+
+
+
+/*section 2 here   <img src="/contant/image/servise/svg-upddd.png" id="fix-width-heihg-down-design" alt="">
+     */
+
+
+
+#fix-width-heihg-down-design{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/contant/image/servise/svg-upddd.png);
+    height: 200px;
+}
+#text-size-change-web-design{
+    font-size: 55px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #191919;
+    font-weight: 400;
+    margin-top: -1em;
+}
+#text-size-change-web-sub-design{
+    margin-left: 17%;
+    color: #b2b2b2;
+    width: 65%;
+    text-align: center;
+    padding: 1em;
+}
+
+#btn-book-our-service{
+    padding: 8px;
+    left: 43%;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: #00004c;
+    color: white;
+    font-size: large;
+    box-shadow: 5px 5px rgb(0, 0,0, 0.35);
+    margin: 0.5em;
+    border: none;
+}
+
+#btn-book-our-service:hover{
+    font-weight: bolder;
+}
+
+#our-3-pro-things-telling{
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 1.5em;
+}
+
+.animate-and-3-combo-things-telling{
+    width: 45%;
+}
+
+#fix-some-error{
+    margin-left: 3em;
+    width: 48%;
+}
+
+#img-back-anima-with-3or{
+    width: 100%;
+    height: 100%;
+    background-image: url(/contant/image/servise/3nd-our-3-telling.gif);
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: unset;
+}
+#img-back-anima-with-3or:hover{
+    background-size: 105%;
+}
+
+
+#combo-1st-telling-consult, #combo-2nd-telling-consult, #combo-3rd-telling-consult{
+    padding: 2em;
+    border-radius: 40px;
+    display: flex;
+    cursor: pointer;
+    margin: 2em 1em 0em;
+    width: 90%;
+}
+
+#combo-1st-telling-consult, #combo-2nd-telling-consult:hover, #combo-3rd-telling-consult:hover{
+    box-shadow: 7px 7px 25px 25px rgba(0,0,0,0.06);
+    border: none;
+}
+#combo-2nd-telling-consult, #combo-3rd-telling-consult{
+    border: 1px solid #6666ff
+}
+#combo-2nd-telling-consult{
+    margin-left: 10%;
+}
+
+.img-for-3-things-first-have{
+    width: 40%;
+    height: auto;
+    margin-left: 1em;
+}
+.text-type-for-3things{
+    width: 50%;
+    margin-left: 0em;
+}
+
+
+@media all and (max-width: 1200px) {
+    .img-for-3-things-first-have{
+        margin: 0em 3.5em 0em 0em;
+        width: 35%;
+    }
+}
+
+@media all and (max-width: 1020px) {
+    .animate-and-3-combo-things-telling{
+        width: 99%;
+    }
+    #fix-some-error{
+        width: 99%;
+    }
+    #img-back-anima-with-3or{
+        width: 100%;
+        height: 550px;
+        background-position: center;
+    }
+}
+
+@media all and (max-width: 555px) {
+    #img-back-anima-with-3or{
+        width: 95%;
+        height: 400px;
+    }
+    #fix-some-error{
+        margin-left: 0.39em;
+    }
+    #combo-1st-telling-consult, #combo-3rd-telling-consult{
+        margin-left: 0em ;
+    }
+}
+
+
+@media all and (max-width: 500px) {
+    #text-size-change-web-design{
+        font-size: 35px;
+    }
+    #text-size-change-web-sub-design{
+        width: 80%;
+        margin-left: 9%;
+    }
+    #btn-book-our-service{
+        left: 30%;
+        padding: 5px;
+    }
+    .img-min-500-width-height{
+        width: 90px;
+        height: auto;
+    }
+    .img-for-3-things-first-have{
+        width: 25%;
+    }
+    .text-type-for-3things{
+        width: 70%;
+    }
+}
+@media all and (max-width: 400px) {
+    #combo-1st-telling-consult, #combo-2nd-telling-consult, #combo-3rd-telling-consult{
+        width: 100%;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .img-min-500-width-height{
+        width: 65px;
+    }
+    #our-3-pro-things-telling{
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .text-type-for-3things{
+        width: 75%;
+    }
+}
+
+
+/*section 3 here start*/
+
+#web-anime-text-img-here-main{
+    background-image: url(/contant/image/servise/website-text-anima.gif);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: ;
+    height: 200px;
+    width: 100%;
+    margin: 5em 0px 5em 0px;
+}
+
+#we-make-web-better{
+    letter-spacing: 5px;
+    font-size: large;
+    text-align: center;
+    color: rgb(0, 0,0, 0.4);
+    margin: 2em;
+}
+
+
+#edu-web, #corpr-web{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    margin: 5em 0px 3em 0px;
+}
+#edu-web{
+    background-image: url(/contant/image/servise/edu-web.png);
+}
+#corpr-web{
+    background-image: url(/contant/image/servise/corpratee.png);
+}
+
+
+.edu-and-bu-web-type-text{
+    letter-spacing: 5px;
+    font-size: xxx-large;
+    font-variant: initial;
+    text-align: center;
+    color: white;
+    padding-top: 1em;
+}
+.edu-and-bu-web-type-text-2nd{
+    letter-spacing: 5px;
+    font-size: xxx-large;
+    font-variant: initial;
+    text-align: center;
+    color: blue;
+    padding-top: 1em;
+    position: initial;
+}
+
+.line-with-edu-and-bus{
+    background-color: #ffb300;
+    margin-left: 30%;
+    width: 35%;
+    height: 3px;
+    margin-top: 0.5em;
+}
+
+.for-type-how-site{
+    letter-spacing: 3px;
+    font-size: large;
+    color: rgba(250, 250, 245, 0.35);
+    padding-top: 1.5em;
+    text-align: center;
+}
+.line-for-type{
+    background-color: rgb(250, 250, 250, 0.3);
+    margin-left: 40%;
+    width: 20%;
+    height: 3px;
+    margin-top: 0.5em;
+}
+.for-type-how-site-2nd{
+    letter-spacing: 3px;
+    font-size: large;
+    color: rgb(0, 0, 0,0.7);
+    padding-top: 1.5em;
+    text-align: center;
+}
+
+
+#we-love-code{
+    background-image: url(/contant/image/servise/we-love-code.png);
+    background-position: center;
+    width: 100%;
+    height: 50px;
+    background-size: contain;
+    margin: 0.5em 0px 0.5em 0px;
+}
+
+.width-for-website{
+    justify-content: center;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.heving-a-site-many-benefi{
+    letter-spacing: 2px;
+    text-align: left;
+    font-size: 35px;
+    margin: 1em 0px 1.5em 0px;
+    width: 70%;
+}
+
+.some-type-text-haviing-beni{
+    width: 70%;
+    text-align: left;
+    color: rgb(0, 0,0, 0.7);
+    font-size: medium;
+    font-family: cursive;
+}
+
+.some-type-text-or-2sr{
+    width: 70%;
+    text-align: left;
+    color: rgb(0, 0, 0,0.7);
+    font-size: medium;
+    font-weight: 700;
+}
+
+.list-type-fetures-text{
+    padding: 1em 1em 1em 4em;
+    width: 70%;
+    text-align: left;
+    color: rgb(0, 0, 0,0.7);
+    font-size: 18px;
+    line-height: 27px;
+}
+
+
+
+
+@media all and (max-width: 645px) {
+    .edu-and-bu-web-type-text-2nd{
+        font-size: xx-large;
+        letter-spacing: 3.5px;
+    }
+    .heving-a-site-many-benefi{
+        font-size: 28px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .heving-a-site-many-benefi, .some-type-text-haviing-beni, .list-type-fetures-text, .some-type-text-or-2sr{
+        width: 90%;
+    }
+    .list-type-fetures-text{
+        padding-left: 2em;
+    }
+    #web-anime-text-img-here-main{
+        margin: 0px;
+    }
+    
+}
+@media all and (max-width: 400px) {
+    .edu-and-bu-web-type-text{
+        font-size: x-large;
+    }
+    .edu-and-bu-web-type-text-2nd{
+        font-size: large;
+    }
+    .for-type-how-site, .for-type-how-site-2nd{
+        font-size: small;
+        padding-top: 3em;
+    }
+}
+
+
+
+

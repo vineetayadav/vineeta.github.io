@@ -1,0 +1,398 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+
+.footer_back_main{
+    background-image: url(/contant/image/one_use/footer.png);
+    display: flex;
+}
+
+
+.first_combo{
+    display: flex;
+    width: 75%;
+}
+.three_combo{
+    display: flex;
+    width: 79%;
+}
+
+
+.exp_img{
+    width: 200px;
+    height: 50px;
+}
+.first_class{
+    padding: 0.5em;
+    width: 40%;
+    margin: 1em;
+}
+.img_class{
+    padding: 0.5em;
+}
+.exper_content{
+    padding: 0.5em;
+    color: white;
+    display: inline-block;
+}
+.exper_content:hover{
+    color: #cc8f00;
+}
+
+
+.second_class{
+    color: white;
+    margin: 1em;
+    margin-left: 0em;
+    padding: 0em;
+}
+.name_quick{
+    padding: 0em;
+    
+    text-align: center;
+}
+.q_links{
+    display: flex;
+    padding: 1em;
+
+}
+
+.n_q_links{
+    padding: 1em;
+    text-decoration: none;
+}
+
+
+.third_class{
+    color: white;
+    margin: 1em;
+    margin-left: 0em;
+    padding: 0em;
+    width: 30%;
+}
+.contact_sec{
+    display: flex;
+    padding: 0em;
+    margin: 0.5em;
+}
+
+.forth_class{
+    color: white;
+    margin: 1em;
+    margin-left: 0em;
+    padding: 0em;
+}
+.map_inside{
+    display: flex;
+    padding: 0em;
+    margin: 0.5em;
+    margin-bottom: 0em;
+    object-fit: contain;
+    object-position: center;
+}
+
+
+
+
+
+
+.second_class:hover{
+    color: #cc8f00;
+}
+.third_class:hover{
+    color: #cc8f00;
+}
+.forth_class:hover{
+    color: #cc8f00;
+}
+
+.quick_nav{
+    text-decoration: none;
+    color: white;
+}
+
+.quick_nav_link{
+    text-decoration: none;
+    color: white;
+}
+
+.quick_nav:hover{
+    text-decoration: underline;
+    color: #cc8f00;
+}
+.quick_nav_link:hover{
+    text-decoration: underline;
+    color: #cc8f00;
+}
+
+.con_size{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.biggg:hover{
+    color: #cc8f00;
+}
+.con_size:hover{
+    color: #cc8f00;
+}
+.biggg{
+    font-size: 40px;
+}
+.footer_socal {
+    position: relative;
+    display: inline-block;
+}
+.footer_socal .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.footer_socal:hover .img-top {
+    display: inline;
+}
+
+.footer_map{
+    width: 100%;
+    height: 250px;
+}
+
+
+
+
+#up_button {
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+    z-index: 99;
+    font-size: x-large;
+    outline: none;
+    background-color: transparent;
+    color: #000099;
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    rotate: -90deg;
+}
+
+#up_button::after{
+    content: "\27A4";
+}
+/*.line {
+    background: black;
+    display: inline-block;
+    height: 3px;
+    position: relative;
+    width: 23px;
+    transform: rotate(246deg);
+    bottom: 45px;
+    right: -1px;
+ }
+ 
+ .line:after {
+    background: black;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    transform: rotate(45deg);
+    top: -9px;
+    left: 2px;
+ }
+*/
+  
+#up_button:hover {
+    background-color: #cc8f00;
+    font-weight: bold;
+}
+
+#whatsapp_button {
+    position: fixed;
+    bottom: 40px;
+    left: 30px;
+    z-index: 88;
+    font-size: 50px;
+    border: none;
+    outline: none;
+    background-image: url(/contant/image/socail/whatsapp.png);
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+    transition-duration: 3s;
+    transition-property: all;
+    cursor: pointer;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#whatsapp_button:hover{
+    bottom: 50px;
+}
+
+.whatsapp_text {
+    visibility: hidden;
+    width: 200px;
+    background-color: #ffb300;
+    color: #000099;
+    border-radius: 6px;
+    font-size: 15px;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 15;
+  }
+  
+  #whatsapp_button:hover .whatsapp_text {
+    visibility: visible;
+    top: -20px;
+  }
+#up_button:hover .whatsapp_text{
+    visibility: visible;
+    width: 80px;
+    text-decoration: none;
+    transform: rotate(115deg);
+}
+
+
+
+@media all and (max-width:1235px) {
+
+    .footer_back_main{
+        display: inline-block;
+    }
+    .three_combo{
+        width: 100%;
+    }
+
+    .footer_map{
+        width: 700px;
+    }
+    .map_inside{
+        justify-content: center;
+        border: none;
+    }
+    
+}
+@media all and (max-width:870px) {
+    .map_inside{
+        justify-content: center;
+    }
+    .footer_map{
+        width: 500px;
+    }
+}
+
+@media all and (max-width:870px) {
+    .three_combo{
+        display: inline-block;
+    }
+    .contact_sec{
+        padding: auto;
+        text-align: justify;
+    }
+    .first_combo{
+        width: 100%;
+    }
+    .three_combo{
+        width: 100%;
+    }
+}
+
+@media all and (max-width:600px) {
+    .first_combo{
+        display: inline-block;
+    }
+
+    .first_class{
+        border: none;
+    }
+    .second_class{
+        border: none;
+        justify-content: center;
+    }
+    .img_class{
+        padding-right: 20%;
+        padding-left: 20%;
+    }
+    .exp_img{
+        width: 100%;
+        height: 50%;
+    }
+    .exper_content{
+        text-align: center;
+    }
+    .footer_map{
+        width: 100%;
+    }
+
+    .q_links{
+        justify-content: center;
+        display: none;
+        position: inherit;
+    }
+    .contact_sec{
+        display: none;
+    }
+    .map_inside{
+        display: none;
+    }
+
+    .second_class:hover .q_links{
+        display: flex;
+    }
+    .third_class:hover .contact_sec{
+        display: flex;
+    }
+    .forth_class:hover .map_inside{
+        display: flex;
+    }
+
+
+    .arrow{
+        background: white;
+        display: inline-block;
+        height: 2px;
+        position: relative;
+        width: 20px;
+        transform: rotate(55deg);
+        top: -8px;
+    }
+     
+    .arrow:after{
+        background: white;
+        content: '';
+        display: block;
+        height: 100%;
+        position: absolute;
+        width: 100%;
+        transform: rotate(-110deg);
+        top: -9px;
+        left: 6px;
+    }
+}
+
+
+@media all and (max-width:500px) {
+    .name_quick{
+        font-weight: bolder;
+    }
+    .arrow{
+        width: 12px;
+        top: -5px;
+    }
+    .arrow:after{
+        top: -5px;
+        left: 4px;
+    }
+}

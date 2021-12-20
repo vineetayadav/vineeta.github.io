@@ -1,0 +1,326 @@
+#liner-gradent-color{
+    background-image: radial-gradient(  #ffc232 15%, #ffba19 20%, #ffb300 10% );
+}
+
+#studen-pro-text-effect{
+    text-align: center;
+    padding: 1.7em 0px 0.3em 0px;
+    font-size: xxx-large;
+    letter-spacing: 3px;
+}
+#stud-pro-line-under{
+    background-color: blue;
+    background-position: center;
+    margin-left: 37%;
+    width: 25%;
+    height: 0.5rem;
+}
+#stu-inter-small-iffect{
+    text-align: center;
+    padding: 2em 0px 3em 0px;
+    font-size: large;
+}
+
+.justify-center{
+    display: -webkit-flex;
+    justify-content: center;
+}
+#btn-type-home-to-progrm{
+    padding: 8px 20px 8px 20px;
+    font-size: x-large;
+    color: rgb(255, 255, 255, 0.8);
+    cursor: pointer;
+    box-shadow: 5px 5px 35px 15px rgb(0, 0, 0, 0.4);
+    border-radius: 25px;
+    background-color: #00004c;
+    margin-top: -4vh;
+}
+
+#why-we-hy-full{
+    display: -webkit-flex;
+    position: unset;
+    margin-top: 4em;
+}
+#side-2-line-effect{
+    left: 0px;
+    background-color: blue;
+    width: 15px;
+    height: auto;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#hlf-full-we-hire{
+    justify-content: center;
+    display: -webkit-flex;
+    width: 90%;
+}
+
+#some-70-width-fix{
+    width:85%;
+    box-shadow: 8px 8px 75px 10px #b2b2b2;
+    padding: 2em;
+}
+#some-70-width-fix:hover{
+    box-shadow: 3px 3px 15px  blue;
+}
+
+#we-hire-ques-text{
+    text-align: left;
+    font-size: xx-large;
+    letter-spacing: 2px;
+    width: 100%;
+    box-shadow: 5px 5px 15px 5px #e5e5e5;
+    padding: 0.5em;
+}
+#we-hire-ans-text{
+    width: 100%;
+    text-align: left;
+    font-size: large;
+    font-style: oblique;
+    padding: 1em 1em 1em 1.5em;
+}
+
+
+#flexib-with-student{
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 4px;
+    margin: 5em 0.5em 0.5em 0.5em;
+    font-family: cursive;
+    font-style: oblique;
+}
+#flexib-lin-under{
+    background-color: blue;
+    width: 40%;
+    height: 5px;
+    background-position: center;
+    margin: 0px 0px 1em 30%;
+}
+
+
+#prog-offer-and-jump{
+    display: -webkit-flex;
+}
+#truste-program-offer{
+    font-size: xx-large;
+    letter-spacing: 4px;
+    margin: 2em 0.5em 0.5em 0.5em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#text-jumb{
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0px 2.5em 0px 2.5em;
+}
+.text-btn-jump{
+    padding: 5px 8px 5px 8px;
+    border-radius: 25px;
+    margin: 5px 5px 5px 5px;
+    background-color: rgb(0, 0, 0, 0.2);
+    color: blue;
+    font-size: large;
+    cursor: pointer;
+    border: none;
+}
+
+.text-btn-jump:hover{
+    background-color: rgb(0, 0, 0,0.4);
+    font-weight: bold;
+}
+
+#apply-now-for-intership{
+    padding: 1rem;
+    border: none;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-left: 40%;
+}
+#apply-now-for-intership:hover{
+    color: rgb(0, 0, 0,0.7);
+}
+
+
+.main-intership-see-width-wali{
+    width: 70%;
+    margin: 4em 0px 1em 0px;
+}
+.main-topic-for-intership{
+    font-size: xx-large;
+    letter-spacing: 2px;
+    width: 100%;
+    box-shadow: 5px 5px 15px 5px #e5e5e5;
+    padding: 0.5em;
+    text-align: center;
+    cursor: pointer;
+}
+.main-topic-for-intership:hover{
+    box-shadow: 1px 1px 2px 3px rgb(2, 6, 206 ,0.7);
+}
+
+.main-topic-for-intership::before {
+    content: '\002B';
+    font-weight: bolder;
+    float: left;
+}
+.intership-active::before{
+    content: "\2212";
+}
+
+
+
+
+
+
+
+
+.intership-toic{
+    font-size: x-large;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    padding: 2em 0px 0.5em 0px;
+}
+.intership-explain{
+    color: rgb(0, 0, 0,0.7);
+    padding: 1.5em;
+}
+.explain-line-wala{
+    padding: 1.5em 1.5em 1.5em 2em;
+    color: rgb(0, 0, 0,0.7);
+    line-height: 30px;
+}
+.panel{
+    display: none;
+    overflow: hidden;
+    background-color: white;
+}
+
+#jobs-student{
+    text-align: center;
+    font-size: xx-large;
+    letter-spacing: 4px;
+    margin: 2em 0.5em 0.5em 0.5em;
+    font-family: cursive;
+    font-style: oblique;
+}
+#jobs-under{
+    background-color: blue;
+    width: 20%;
+    height: 5px;
+    margin-left: 40%;
+}
+
+#job-anime-img-main{
+    background-image: url(/contant/image/servise/website-text-anima.gif);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: ;
+    height: 200px;
+    width: 100%;
+    margin: 4em 0px 3em 0px;
+}
+
+
+
+
+@media all and (max-width: 750px) {
+    .main-intership-see-width-wali{
+        width: 85%;
+    }
+    .main-intership-see-width-wali{
+        margin-top: 1em;
+    }
+    .main-topic-for-intership{
+        font-size: x-large;
+    }
+    .intership-toic{
+        font-size: large;
+    }
+}
+
+
+@media all and (max-width: 620px) {
+    #some-70-width-fix{
+        width: 100%;
+    }
+    #truste-program-offer, #flexib-with-student, #we-hire-ques-text, #jobs-student{
+        font-size: large;
+    }
+    .text-btn-jump{
+        font-size: small;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+    #text-jumb{
+        margin-top: 1em;
+    }
+    #studen-pro-text-effect{
+        font-size: xx-large;
+        padding-top: 3.5em;
+    }
+    #btn-type-home-to-progrm{
+        font-size: large;
+        margin-top: -2vh;
+    }
+    #we-hire-ans-text{
+        font-size: medium;
+    }
+    #job-anime-img-main{
+        margin: 2.5em 0px 2em 0px;
+    }
+    
+}
+
+@media all and (max-width: 500px) {
+    .main-intership-see-width-wali{
+        width: 99%;
+    }
+    .main-intership-see-width-wali{
+        margin-top: 1em;
+    }
+    .main-topic-for-intership{
+        font-size: large;
+    }
+    .intership-toic{
+        font-size: medium;
+    }
+    #apply-now-for-intership{
+        font-size: medium;
+    }
+}
+
+
+@media all and (max-width: 400px) {
+    #studen-pro-text-effect{
+        font-size: x-large;
+        padding-top: 4.5em;
+    }
+    #btn-type-home-to-progrm{
+        font-size: medium;
+        margin-top: -2vh;
+    }
+    #some-70-width-fix {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #hlf-full-we-hire{
+        width: 100%;
+    }
+    #side-2-line-effect{
+        margin: 0px;
+    }
+    #job-anime-img-main{
+        margin: 0;
+    }
+
+}
+
+

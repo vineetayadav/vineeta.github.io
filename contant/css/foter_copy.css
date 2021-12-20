@@ -1,0 +1,353 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.jj{
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+.copy_right_back{
+    background-color: #ffb300;
+    width: 100%;
+}
+
+.copyright{
+    margin-left: 9%;
+}
+
+.design{
+    margin-top: -1.4%;
+    margin-left: 65%;
+}
+
+@media all and (max-width:1150px) {
+    .copyright{
+        text-align: center;
+    }
+
+
+    .design{
+        margin-top: 0%;
+        margin-left: 8%;
+        text-align: center;
+    }
+}
+
+
+
+@media all and (max-width: 450px) {
+    .copyright{
+        margin-left: 0%;
+        text-align: left;
+        font-size: 12px;
+    }
+
+
+    .design{
+        margin-top: 0%;
+        margin-left: 0%;
+        text-align: left;
+        font-size: 12px;
+    }
+}
+
+@media all and (max-width: 400px) {
+    .copyright{
+        margin-left: 0%;
+        text-align: center;
+    }
+
+    #copy_2nd_line{
+        color: black;
+        text-align: center;
+        font-size: 12px;
+    }
+    #copy_2nd_line::before{
+        content: "\a";
+        white-space: pre;
+    }
+
+
+    .design{
+        margin-top: 0%;
+        margin-left: 0%;
+        text-align: center;
+    }
+
+    #copy_3rd_line{
+        color: black;
+        text-align: center;
+        font-size: 12px;
+    }
+    #copy_3rd_line::before{
+        content: "\a";
+        white-space: pre;
+
+    }
+}
+
+
+
+/*about us page disgin here */
+
+#about-us-back-with-img{
+    background-image: url(/contant/image/home/contant-us.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cont-text-id-about-us{
+    text-align: center;
+    color: #ffb300;
+    padding-bottom: 1em;
+    padding-top: 2em;
+    font-size: xxx-large;
+}
+
+
+.line-border-about-us{
+    margin-top: -1.5%;
+    margin-left: 47%;
+    height: 5px;
+    width: 7%;
+    background-color: #666666;
+}
+
+.cont-down-text-about-us{
+    text-align: center;
+    color: white;
+    padding-top: 3em;
+    padding-bottom: 2em;
+    width: 60%;
+    margin-left: 19%; 
+}
+
+#sum-3-full{
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -4em;
+}
+
+.sum-3-one-one{
+    width: 26%;
+    text-align: left;
+    padding: 2.5em;
+    margin-left: 1.5em;
+    background-color: white;
+    box-shadow: 5px 5px 15px 5px #666666;
+
+}
+.sum3-top-line{
+    background-color: darkblue;
+    width: 25%;
+    height: 8px;
+}
+.main-topic{
+    color: rgba(0, 0, 0, 0.79);
+    font-weight: bolder;
+    font-style: oblique;
+    letter-spacing: 2px;
+}
+.defin{
+    color: rgba(0, 0, 0, 0.59);
+    font-size: large;
+}
+
+#list-for-tyype-do{
+    margin-left: 14%;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 0.59);
+}
+
+
+
+
+.large-text-we-do-what{
+    text-align: center;
+    color: blue;
+    padding: 1.5em;
+    font-size: xx-large;
+}
+.line-border-who-we{
+    margin-top: -2.5%;
+    margin-left: 47%;
+    height: 5px;
+    width: 7%;
+    background-color: #ffb300;
+}
+
+.back-text-about-first{
+    padding: 4em;
+    padding-top: 2em;
+    margin-top: 2em;
+    padding-right: 1em;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.who-we-are-content{
+    width: 43%;
+    margin-left: 4em;
+    color: #666666;
+}
+
+#who-we-are-image-width-height-adjust{
+    width: 97%;
+    height: 100%;
+}
+
+#about-us-slider-width-height-setup{
+    width: 100%;
+    height: 100%;
+    padding-left: 0em;
+    margin-left: 0em;
+}
+
+#about-us-back-with-img-our-team{
+    background-image: url(/contant/image/home/contant-us.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    object-fit: cover;
+}
+
+.team-content-main-us{
+    width: 60%;
+    color: #666666;
+    padding-right: 2em;
+}
+
+.team-content-main-us11{
+    width: 60%;
+    color: #666666;
+    padding-left: 2em;
+}
+
+.my-pic-width-height-adjust{
+    width: 380px;
+    height: auto;
+}
+.img-my-setup{
+    
+}
+
+@media all and (max-width: 1030px) {
+    .back-text-about-first{
+        padding-left: 0.5em;
+        padding-right: 0px;
+        margin-right: 0em;
+    }
+    .who-we-are-content{
+        margin-left: 2em;
+        margin-right: 0em;
+        padding-right: 0em;
+    }
+    .my-pic-width-height-adjust{
+        width: 300px;
+    }
+}
+
+
+@media all and (max-width: 945px) {
+    .sum-3-one-one{
+        width: 90%;
+        margin-left: 0px;
+    }
+}
+
+@media all and (max-width: 790px) {
+    .who-we-are-content{
+        margin-top: 2em;
+        width: 100%
+    }
+    .back-text-about-first{
+        padding-top: 0.5em;
+    }
+    .team-content-main-us{
+        width: 100%;
+    }
+    .team-content-main-us11{
+        width: 100%;
+        padding-top: 2em;
+        padding-right: 2em;
+    }
+    .my-pic-width-height-adjust{
+        padding-left: 5%;
+        width: 95%;
+    }
+    .img-my-setup{
+        margin-top: 2em;
+    }
+    .large-text-we-do-what{
+        padding: 0.5em;
+        padding-bottom: 1em;
+    }
+}
+
+
+
+
+.thought{
+    display: -webkit-flex;
+    justify-content: center;
+    position: unset;
+}
+.maintought{
+    width: 80%;
+    justify-content: center;
+    display: -webkit-flex;
+    position: unset;
+}
+.main-thou-text-here{
+    text-align: left;
+    width: 75%;
+    font-size: x-large;
+    font-style: oblique;
+    letter-spacing: 2px;
+    margin-top: -2.5em;
+}
+
+.dubolcotes-error-where-thought1{
+    font-size: 90px;
+    margin-left: 7%;
+}
+.dubolcotes-error-where-thought2{
+    font-size: 90px;
+    margin-left: 83%;
+}
+
+@media all and (max-width: 500px) {
+    .dubolcotes-error-where-thought1{
+        font-size: 50px;
+        margin-left: 2%;
+    }
+    .dubolcotes-error-where-thought2{
+        font-size: 50px;
+        margin-left: 84%;
+    }
+    .main-thou-text-here{
+        width: 100%;
+        margin-top: -1em;
+        font-size: large;
+    }
+    .main-topic{
+        font-size: x-large;
+    }
+    .defin{
+        font-size: medium;
+    }
+}

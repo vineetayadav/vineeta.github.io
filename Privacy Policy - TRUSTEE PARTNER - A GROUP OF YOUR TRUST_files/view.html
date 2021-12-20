@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="robots" content="noindex, follow">
+
+    <meta http-equiv="pragma" content="no-cache">
+    <meta name="viewport" content="user-scalable=no,width=device-width,initial-scale=1,maximum-scale=1">
+
+    <meta name="description" content="Payment Button powered by Razorpay">
+
+    <title>Powered By Razorpay</title>
+
+    <link rel="icon" href="https://razorpay.com/favicon.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="view_data/payment-form.css">
+
+                
+    <script>
+        var data = {"base_url":"https:\/\/api.razorpay.com","environment":"production","is_test_mode":true,"payment_button_id":"pl_IXq3UEms8DQDAs","request_params":[]};
+    </script>
+
+    <script>
+        function loadRazorpayPaymentForm() {
+            window.RZP.loadRazorpayPaymentForm(data);
+        }
+
+    </script>
+
+    <!-- TODO: Lazy load while button is loaded for faster load. Use this tag only for fallback-->
+    <script type="text/javascript" src="color.js" defer="defer"></script>
+
+    <script type="text/javascript" src="view_data/payment-form.js" onload="loadRazorpayPaymentForm()" defer="defer"></script>
+<link href="view_data/css2.css" rel="stylesheet"><script src="bundle_002.js"></script></head>
+<body data-new-gr-c-s-check-loaded="8.892.0" data-gr-ext-installed="">
+
+ <div class="razorpay-payment-form mfix "> </div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

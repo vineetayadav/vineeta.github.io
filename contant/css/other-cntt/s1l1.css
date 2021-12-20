@@ -1,0 +1,660 @@
+#back-listing-img{
+  background-image: url(/contant/image/servise/list-photo/fw_al_007_01.jpg);
+  background-attachment: fixed;
+  width: 100%;
+  height: auto;
+}
+
+#fix-side-width{
+  padding: 9em 0.5em 1em 5em;
+}
+
+#big-text-ecomm{
+  font-size: xxx-large;
+  color: white;
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-style: oblique;
+  letter-spacing: 2px;
+}
+
+#some-txt-listig{
+  font-size: x-large;
+  color: white;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+#btn-flot-cont{
+  float: right;
+  padding-right: 5em;
+}
+
+#btn-custmz{
+  background-color: #ffb300;
+  color: #000088;
+  font-size: large;
+  letter-spacing: 2px;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+#btn-custmz:hover{
+  background-color: #cc8f00;
+}
+
+#internet-use-some-result{
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 2.5em 0em 3em 0em;
+  justify-content: center;
+}
+.every-point{
+  width: 200px;
+  height: auto;
+  justify-content: center;
+}
+.ev-tex-main{
+  font-size: large;
+  font-weight: bolder;
+  color: rgb(0, 0, 0,0.85);
+  text-align: center;
+}
+.ev-btn-main{
+  background-color: rgb(0,0,0,0.8);
+  font-size: large;
+  color: white;
+  padding: 15px 20px 15px 20px;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+/* black wala background and flip rottter section*/
+
+#black-full{
+  background-color: black;
+  padding: 3em 0.5em 3em 0.5em;
+  justify-content: center;
+}
+
+#black-colo-full{
+  justify-content: center;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#text-ser-listing{
+  letter-spacing: 2px;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 2px black, 0 0 5px blue, 0 0 1px darkblue;
+}
+
+.flip-serv-full{
+  width: 350px;
+  height: 400px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 15px;
+  margin: 1em;
+}
+
+.flip-serv-inner-full{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-serv-full:hover .flip-serv-inner-full{
+  transform: rotateY(180deg);
+}
+
+.flip-serv-show-front1, .flip-serv-show-front2, .flip-serv-show-front3, .flip-serv-hiddn-back{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  box-shadow: 1px 1px 4px 5px rgb(255, 255, 255,0.25);
+}
+
+.flip-serv-show-front1, .flip-serv-show-front2, .flip-serv-show-front3{
+  background-image: url(/contant/image/home/amazon-certifacate.png);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+
+.flip-serv-hiddn-back{
+  background-color: white;
+  color: black;
+  transform: rotateY(180deg);
+}
+
+.center-center-text-big{
+  margin-top: 46%;
+  text-align: center;
+}
+.sub-hed-col{
+  text-align: center;
+  color: rgb(0, 0, 0,0.75);
+}
+
+.btn-back-lern{
+  background-color: seagreen;
+  color: white;
+  border-radius: 7px;
+  padding: 5px 8px 5px 8px;
+  cursor: pointer;
+  margin-top: 2.5em;
+}
+
+.bcm-a-seller{
+  background-color: #cc8f00;
+  color: #000088;
+  padding: 5px 9px 5px 9px;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: large;
+  margin-top: 2em;
+}
+.bcm-a-seller:hover{
+  font-size: 20px;
+  border-color: black;
+}
+
+/* smoothy beauty by center image and some content in slidesssss*/
+
+
+
+#smooth-full-back{
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#be-1st-content, #content-3rd{
+  width: 31%;
+  height: auto;
+  display: inline-block;
+  padding: 2em;
+}
+#img-2nd-wali{
+  width: 31%;
+  height: auto;
+  background-image: url(/fw_al_007_02.jpg);
+  background-attachment: fixed;
+  display: block;
+}
+
+.height-somth-big{
+  font-size: xxx-large;
+  letter-spacing: 1.5px;
+  font-weight: bold;
+  font-style: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+
+
+.counter-number-full-back{
+  background-color: black;
+  width: 100%;
+  margin-top: 8em;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.class-every-counter{
+  width: 310px;
+  height: auto;
+  text-align: center;
+  padding: 2.5em 0.5em 2.5em 0.5em;
+}
+.number-change-with-counter{
+  color: white;
+  letter-spacing: 1.5px;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: xxx-large;
+}
+.sum-text-for-counter{
+  letter-spacing: 2.5px;
+  color: #1603d3;
+  font: x-large bold oblique;
+}
+
+
+
+
+
+
+#sell-10x{
+  background-image: url(/fw_al_007_03.jpg);
+  background-attachment: fixed;
+  padding: 3em;
+  justify-content: center;
+  text-align: center;
+}
+
+#h1-text-grow-10x{
+  font-size: xxx-large;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+#btn-free-text{
+  background-color: #cc8f00;
+  color: #000088;
+  padding: 5px 9px 5px 9px;
+  margin: 3em 0px 0px 0px;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: x-large;
+}
+#btn-free-text:hover{
+  font-size: 25px;
+  border-color: black;
+}
+
+/* last some blogs posts see and other content*/
+
+#full-like-news{
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #e5e5e5;
+  padding: 5em 0em 5em 0em;
+}
+
+#full-like-width-fix{
+  width: 95%;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+#show-contnt-side-2in{
+  background-color: white;
+  width: 80%;
+}
+
+
+.slide-left-topic{
+  background-color: #ffb300;
+  color: #000088;
+  padding: 1.5em;
+  width: 300px;
+}
+.topic-click{
+  display: block;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  width: 100%;
+  padding: 9px;
+  background-color: #ffb300;
+  color: #000088;
+  font-size: large;
+  letter-spacing: 1.5px;
+  text-align: left;
+  transition: 0.3s;
+  min-width: 200px;
+}
+.topic-click:hover{
+  font-weight: bold;
+  background-color: inherit;
+}
+
+.tabcontent {
+  
+  padding: 0px 12px;
+  width: 100%;
+  border-left: none;
+  height: auto;
+}
+
+.topic-click.samefix::after{
+  content: "\27A4";
+  float: right;
+}
+
+.search-topic-height{
+  font-size: x-large;
+  letter-spacing: 2px;
+  margin: 0.3em 0.5em 0.5em 2em;
+}
+
+.sum-3-in-btn-show{
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0.5em 0.3em 0.5em 0.2em;
+}
+.one-1-see-section-cls, .one-3wali-last{
+  width: 300px;
+  padding: 1em;
+  border-bottom: 1px solid black;
+}
+
+
+.top-head-color-ho{
+  text-decoration: none;
+  color: black;
+}
+.top-head-color-ho:hover{
+  color: #000088;
+}
+
+
+
+
+#provid-serv-differtn{
+  display: -webkit-flex;
+  justify-content: center;
+}
+
+#pro-serv-box-type{
+  padding: 1.5em;
+  text-align: center;
+  width: 90%;
+  display: block;
+  justify-content: center;
+}
+
+.fix-sites-center-flex{
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#txt-provid-topic-fix{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: oblique;
+  letter-spacing: 1.5px;
+  text-shadow: 1px 1px 2px black, 0 0 5px blue, 0 0 1px darkblue;
+}
+.contnt-serv-offer-show{
+  text-align: center;
+  padding: 1em;
+  width: 200px;
+  margin: 1em;
+  box-shadow: 2px 2px 5px 6px rgb(0, 0, 0,0.1);
+}
+.contnt-serv-offer-show:hover{
+  box-shadow: 2px 2px 5px 6px rgb(0, 0, 0,0.25);
+}
+
+.SITE-SER{
+  text-decoration: none;
+  color: black;
+}
+.SITE-SER:hover{
+  color: #000088;
+  text-decoration: underline;
+}
+
+.btn-serv-site{
+  padding: 8px 12px 8px 12px;
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: large;
+}
+.btn-serv-site:hover{
+  background-color: darkblue;
+  color: azure;
+}
+
+#pricing-back{
+  background-image: url(/fw_al_007_03.jpg);
+  background-attachment: fixed;
+  padding: 3em;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#priceing-text-some-fnt{
+  background-image: linear-gradient(to right, yellow,yellow,#ffff66,white,white,white,white);
+  width: max-content;
+  padding: 1em 2.5em 1em 2.5em;
+  font-size: x-large;
+  text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 1px darkblue;
+}
+
+
+#see-pricing-btn{
+  font-size: large;
+  width: max-content;
+  padding: 15px;
+  margin-top: 1em;
+  background-color: #19d219;
+  color: white;
+  border: dotted;
+  cursor: pointer;
+}
+#see-pricing-btn:hover{
+  border: black;
+
+}
+
+
+
+
+@media all and (max-width: 1290px) {
+  .one-3wali-last{
+    width: 90%;
+    margin-top: 1.5em;
+  }
+  .one-1-see-section-cls{
+    width: 45%;
+  }
+}
+
+@media all and (max-width: 1200px) {
+  #content-3rd{
+    width: 99%;
+  }
+  #be-1st-content, #img-2nd-wali{
+    width: 50%;
+  }
+  .every-point{
+    width: 16%;
+  }
+  .ev-btn-main{
+    font-size: medium;
+    padding: 5px 10px 5px 10px;
+  }
+  .ev-tex-main{
+    font-size: medium;
+  }
+  .flip-serv-full{
+    width: 28%;
+  }
+  #pro-serv-box-type{
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 950px) {
+  .one-3wali-last, .one-1-see-section-cls{
+    width: 90%;
+    margin-top: 1.5em;
+  }
+  #pricing-back{
+    padding: 2em 0.5em 2em 0.5em;
+  }
+  #priceing-text-some-fnt{
+    padding: 1em;
+  }
+  .flip-serv-full{
+    height: 450px;
+  }
+}
+
+
+@media all and (max-width: 750px) {
+  #be-1st-content, #img-2nd-wali{
+    width: 100%;
+  }
+  #img-2nd-wali{
+    height: 350px;
+  }
+
+  #h1-text-grow-10x, #big-text-ecomm{
+    font-size: x-large;
+  }
+  #priceing-text-some-fnt, #btn-free-text, #some-txt-listig{
+    font-size: large;
+  }
+  #btn-free-text:hover{
+    font-size: 15px;
+  }
+
+  #see-pricing-btn, #btn-serv-site, .btn-serv-site{
+    font-size: medium;
+  }
+  #fix-side-width{
+    padding: 4.5em 0.5em 0.65em 0.5em;
+  }
+
+  #btn-custmz{
+    font-size: medium;
+    padding: 4.5px 10px 4.5px 10px;
+  }
+
+  .box-site-disply-none{
+    display: none;
+  }
+
+  .flip-serv-full{
+    width: 300px;
+    height: 400px;
+  }
+
+}
+
+
+
+@media all and (max-width: 620px) {
+  .number-change-with-counter{
+    font-size: large;
+  }
+  .sum-text-for-counter{
+    font-size: medium;
+  }
+  .class-every-counter{
+    width: 25%;
+  }
+}
+
+
+
+
+@media all and (max-width: 515px) {
+  .every-point{
+    width: 90px;
+    margin-top: 1em;
+  }
+  .bcm-a-seller{
+    font-size: medium;
+    padding: 3px 5px 3px 5px;
+  }
+  .height-somth-big{
+    font-size: large;
+  }
+  .class-every-counter{
+    width: 120px;
+  }
+  #sell-10x{
+    padding: 1em;
+  }
+
+  #btn-free-text{
+    font-size: medium;
+    padding: 3px 5px 3px 5px;
+  }
+  .contnt-serv-offer-show{
+    width: 130px;
+    margin: 0.5em;
+    font-size: medium;
+  }
+  .btn-serv-site{
+    font-size: small;
+  }
+  #see-pricing-btn{
+    font-size: medium;
+    padding: 5px;
+  }
+
+
+  #full-like-width-fix{
+    flex-wrap: wrap;
+  }
+  #show-contnt-side-2in{
+    width: 100%;
+  }
+
+
+  .slide-left-topic{
+    width: 100%;
+  }
+
+
+  #fix-main-click{
+    display: -webkit-flex;
+    flex-direction: row;
+    white-space: normal;
+    justify-content: left;
+    overflow-x: scroll;
+    padding: 1em;
+  }
+
+  .topic-click.samefix::after{
+    rotate: 90deg;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*
+  overflow: auto;
+  white-space: nowrap;
+*/

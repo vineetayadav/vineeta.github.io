@@ -1,0 +1,165 @@
+.typ1-blg-1stback{
+    display: flex;
+    justify-content: center;
+}
+
+.pr-ho-nex-wali-btn{
+    width: 90%;
+    display: -webkit-flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.prv-btn-hom-btn-next-btn{
+    padding: 5px 9px 5px 9px;
+    background-color: thistle;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    border-bottom: 3px solid black;
+
+}
+.prv-btn-hom-btn-next-btn:hover{
+    text-decoration: unset;
+    color: #000088;
+}
+
+.width90block{
+    width: 90%;
+    display: inline-block;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.5);
+}
+
+.width-puri{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.img-width-andup{
+    width: 100%;
+    height: 300px;
+    background-image: url(/a.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.with-90full{
+    width: 93%;
+    justify-content: center;
+    display: inline-block;
+    margin-top: -6em;
+    background-color: white;
+}
+
+.thodi-up-km-width{
+    width: 85%;
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-post-by{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.pub-by-main{
+    text-decoration: none;
+}
+.pub-by-main:hover{
+    color: #000088;
+    text-decoration: underline;
+}
+
+.post-by-center{
+    font-size: 12.5px;
+    vertical-align: middle;
+}
+
+.published-full{
+    width: 100%;
+    height: 50px;
+    vertical-align: middle;
+}
+.publish-by-date{
+    float: right;
+    font-size: 12.5px;
+}
+.flot-left-for-pub{
+    float: left;
+}
+
+.img-flot-eith-text{
+    float: left;
+    width: 550px;
+    padding: 1em 2em 1em 0em;
+}
+.img-flot-left-text{
+    float: right;
+    width: 550px;
+    padding: 2em 0em 1em 2em;
+}
+
+.flot-text-img{
+    text-align: justify;
+    max-width: 100%;
+}
+
+.fix-img-flt{
+    max-width: 100%;
+    width: max-content;
+    height: auto;
+}
+
+.flt-right-bck-blk{
+    float: right;
+    margin: 1em 0em 1em 2em;
+    padding: 1em;
+    background-color: rgb(0, 0, 0,0.8);
+    width: 350px;
+    height: auto;
+    box-shadow: 5px 5px 7px 4px rgb(0, 0, 0,0.4);
+}
+
+.white-text{
+    color: white;
+    font-size: xx-large;
+    text-align: left;
+}
+
+.prv-nxt-cntt{
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.n-p-cc{
+    width: 48%;
+}
+
+.nex-pr-hov{
+    text-decoration: none;
+    color: black;
+    margin: 0.5em;
+}
+.nex-pr-hov:hover{
+    text-decoration: underline;
+    color: #000088;
+}
+
+
+
+@media all and (max-width: 650px) {
+    .img-flot-left-text, .img-flot-eith-text{
+        width: 100%;
+    }
+    .pr-ho-nex-wali-btn, .width90block, .thodi-up-km-width, .n-p-cc{
+        width: 97%;
+    }
+    .publish-by-date{
+        float: left;
+        margin: 1em;
+    }
+    
+}

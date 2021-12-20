@@ -1,0 +1,220 @@
+.difn-way-servise{
+    width: max-content;
+    font-style: italic;
+    margin: 1.5em 0em 2em 5%;
+    font-weight: bold;
+}
+
+.main-serv-full{
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.serv-side-margin-full{
+    width: 85%;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.first-explain-serv{
+    width: 100%;
+
+}
+.sec-price-right{
+    width: 33%;
+}
+.dis-blk{
+    width: 60%;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.right-text-discount{
+    float: right;
+    display: block;
+    width: max-content;
+    background-color: #f58c00;
+    padding: 0.2em 0em 0.2em 0.5em;
+    color: white;
+}
+.right-text-discount::after{
+    content: '';
+    height: 0;
+    padding-left: 0.5em;
+    border-top: 5px solid transparent;
+	border-right: 20px solid #ffffff;
+	border-bottom: 5px solid transparent;
+}
+
+.ser-prov-img-fix{
+    width: 80px;
+    height:60px;
+}
+.vrtcl-midd{
+    vertical-align: middle;
+    display: inline;
+}
+
+.prize-review{
+    display: -webkit-flex;
+    justify-content: left;
+}
+.pri-1-reviw{
+    width: 180px;
+    padding: 1em 2em 1em;
+    text-align: center;
+}
+.color-hlka-pri-rew{
+    color: rgb(0, 0, 0,0.6);
+    padding-top: 0.5em;
+}
+
+.flt-rht-btn-cont{
+    float: right;
+    padding: 0.5em 0.9em 0.5em 0.9em;
+    background-color: #ffae42;
+    width: max-content;
+    height: min-content;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+}
+.flt-rht-btn-cont:hover{
+    background-color: #f58c00;
+    text-decoration: underline;
+}
+
+.type-serv{
+    width: 30%;
+}
+.expln-serv{
+    border-bottom: 1px solid rgb(0, 0, 0,0.3);
+    width: 70%;
+}
+
+
+.box-full-with-border{
+    border: 2px solid rgb(0, 0, 0,0.7);
+}
+.back-black{
+    background-color: black;
+    color: white;
+    padding: 0.5em 1em 0.5em 1em;
+}
+.back-some-light-black{
+    background-color: rgb(0, 0, 0,0.1);
+    padding: 0.5em 1em;
+    letter-spacing: 1.25px;
+}
+.sign-backg{
+    float: right;
+    background-color: black;
+    height: 3px;
+    width: 14px;
+    margin: 0.5em;
+}
+
+.brdr-up-3-cl{
+    border-top: 1px solid rgb(0, 0, 0,0.3);
+    margin-top: 0.8em;
+    padding-top: 0.8em;
+}
+
+.main-pay-button{
+    width: 100%;
+    height: 50px;
+}
+
+.img-box{
+    border: 1px solid rgb(0, 0, 0,0.7);
+    width: 100%;
+    height: 100px;
+    position: unset;
+}
+
+/*Image pic for services*/
+
+.vc-algn-midd {
+    vertical-align: middle;
+  }
+  
+  /* Position the image container (needed to position the left and right arrows) */
+  .container-for-serv {
+    position: relative;
+  }
+  
+  /* Hide the images by default */
+  .mySlides-for-serv {
+    display: none;
+  }
+  
+  /* Add a pointer when hovering over the thumbnail images */
+  .cursor {
+    cursor: pointer;
+  }
+  
+  /* Next & previous buttons */
+  .prev,
+  .next {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    width: auto;
+    padding: 8px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 1.5px 1.5px 0;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+    font-family: Arial;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover,
+  .next:hover {
+    background-color: #ffb300;
+    color: black;
+  }
+  
+  /* Container for image text */
+  .caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Six columns side by side */
+  .column {
+    float: left;
+    width: 33.3333%;
+  }
+  
+  /* Add a transparency effect for thumnbail images */
+  .demo {
+    opacity: 0.6;
+  }
+  
+  .active-for-serv,
+  .demo:hover {
+    opacity: 1;
+  }
