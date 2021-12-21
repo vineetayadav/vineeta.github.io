@@ -4,8 +4,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     
 	<title id="TRUSTEE_PARTNER">TRUSTEE PARTNER - A GROUP OF YOUR TRUST</title>
+
+    
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta name="description" content="Group of you terest trustee partner">
+    <meta name="description" content="PRIYANHU YADAV">
+    <meta name="description" content="product lisitng on amazon">
+    <meta name="keywords" content="trustee partner | A Group of your trust">
+    
+
+
 	<link rel="stylesheet" href="/contant/css/home_nav.css">
     <link rel="stylesheet" href="/contant/css/section_1.css">
     <link rel="stylesheet" href="/contant/css/section_2.css">
@@ -14,11 +26,13 @@
     <link rel="stylesheet" href="/contant/css/footer.css">
     <link rel="stylesheet" href="/contant/css/foter_copy.css">
     <link rel="stylesheet" href="/contant/css/slick-slider.css">
+    <link rel="stylesheet" href="/contant/css/other-cntt/s1p2.css">
 
     <link rel="stylesheet" href="/contant/css/aos-total-animation.css">
     
 
     <link rel="icon" href="/contant/image/logo/favicon.icon">
+
     <script
     src="/contant/js/main-nav-button-click.js"
     integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
@@ -86,6 +100,11 @@
 
 
 
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+
+
+
+
 
     
 
@@ -96,28 +115,47 @@
 
 
 	<header>
-		<nav>
-        
-			<a href="/">
-				<img  style="position: relative; top: 12mm;" class="main_logo" src="/contant/image/logo/first_logo.png"  height="60px" width="310px" alt="TRUSTEE PARTNER"></a>
-				<ul><li class="toggle tabb"><span class="bars" style="position: relative; top: 0;"></span></li></ul>
-				<div style="position: relative; top: -2mm;">
-					<a class="home item" href="/">HOME</a>
-				<div class="dropdown-menu">
-					<button class="services item">SERVICES &#8744</button>
-					<div class="menu-content">
-					<a class="links-hidden item" href="listing.php">PRODUCT LISTING</a>
-					<a class="links-hidden item" href="photography.php">PHOTOGPRAPHY</a>
-					<a class="links-hidden item" href="webdesgin.php">WEBSITE DESIGN</a>
-					<a class="links-hidden item" href="program.php">STUDENTS PROGRAM</a>
-					</div></button></div>
-				<li class="tab item"><a href="blogs.php" style="text-decoration: none; color: #000099;">BLOGS</a></li>
-				<li class="tab item"><a href="aboutus.php" style="text-decoration: none; color: #000099;">ABOUT US</a></li>
-				<li class="tab item"><a href="contactus.php" style="text-decoration: none; color: #000099;">CONTACT US</a></li>
-				</div>
-		
-       </nav>
+
+        <nav style="position: relative;">
+            <a href="/">
+                <img src="/contant/image/logo/first_logo.png" height="60px" width="310px" class="main_logo" alt="">
+            </a>
+    
+            <div class="toggle tabb"><span class="bars"></span></div>
+            <div id="fix">
+             
+             <a href="/" class="home item" id="homeeee">HOME</a>
+             <span class="dropdown-menu">
+                 <button  class="services item" >SERVICES &#8744</button>
+                 <div class="menu-content">
+                    <a class="links-hidden item" href="listing.html">PRODUCT LISTING</a>
+					<a class="links-hidden item" href="photography.html">PHOTOGPRAPHY</a>
+					<a class="links-hidden item" href="web-design.html">WEBSITE DESIGN</a>
+					<a class="links-hidden item" href="program.html">STUDENTS PROGRAM</a>
+                 </div>
+             </span>
+             <a class="tab item" href="blogs.html" >BLOGS</a>
+             <a class="tab item" href="about-us.html" >ABOUT US</a>
+             <a class="tab item" href="/contact-us.html" >CONTACT US</a>
+    
+            </div>
+        </nav>
+
+
     </header>
+
+
+    <div class="full-top-back">
+        <div class="cntt-and-btn">
+            <h2>Want to discuss a particular service?</h2>
+        </div>
+        <div class="cntt-and-btn">
+            <a href="#back-conta">
+                <button class="btn-first-contact">TALK TO US</button>
+            </a>
+        </div>
+    </div>
+
 
 
     <section>
@@ -334,6 +372,29 @@ function plusSlides(n) {
     </script>
 
 
+<!--first mission to make successful seller-->
+
+
+    <div style="justify-content: center; display: flex;">
+        <div class="fix-width-80" style="text-align: center;">
+            <br><br>
+            <h1 style="color: rgb(0, 0, 0,0.85);">
+                <b>OUR MISSION:</b> TO MAKE YOU A SUCCESSFUL SELLER
+            </h1>
+            <br><hr><br>
+            <p style="color: rgb(0, 0, 0,0.75); font-size: large;">
+                Trustee Partner provides hand holding support  in <b>Ecommerce product listing services</b> to its sellers on multiple marketplace platforms where we work as a strong digital marketing partner of <b>Ecommerce Sellers</b> in Delhi, Mumbai and across India to help you boost your sales volume in the given time period. Our Ecommerce product listing service includes the placing of product in the list
+            </p>
+            <p style="color: rgb(0, 0, 0,0.75); font-size: large;">
+                We have a highly skilled digital marketing team for <b>ecommerce catalog management services in India</b> which improves SEO Ranking of your product listing on Ecommerce platforms with highest accuracy and increases traffic on your online store generating high sales and revenue for you which makes us best <b>e commerce service provider in Delhi</b>, India.
+            </p>
+        </div>
+    </div><br>
+
+
+
+
+
 <!--2nd sectiion class-->
 
 
@@ -343,7 +404,7 @@ function plusSlides(n) {
         <section>
 
             <div class="section2-center-class">
-                <button style="background-color: #ff1e56; color: white; padding: 15px;"> <h3> Servise </h3></button><br><br>
+                <button class="our-servise-style-text"> <h3> Services </h3></button><br>
                 <h2>Take our servise in online mood</h2><br>
                 <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
     
@@ -401,7 +462,9 @@ function plusSlides(n) {
                     <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
                     <h2 class="price-servise">    &#8377 4000</h2>
                     <br>
-                    <button class="paynow"><h1> Book Now </h1></button>
+                    <button class="paynow"><h1>
+                        <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IXq3UEms8DQDAs" async> </script> </form>
+                    </h1></button>
                 </div>
 
                    <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg">
@@ -486,81 +549,91 @@ function plusSlides(n) {
         </section>
 
 
+<!--type explore servises-->
 
 
+        <section>
 
-
-
-        <div class="section2-center-class">
-            <button style="background-color: #ff1e56; color: white; padding: 15px;"> <h3> Why choose us ! </h3></button><br><br>
-            <h2>hyy here we are providsjkajfkajkdf</h2>
+            <div class="dis-fle-cent">
+                <div class="fix-width-80">
+                    <h2 style="color: rgb(0, 0, 0,0.85);">ECOMMEREC SELLER SERVICE</h2>
+                    <br>
             
-            <br>
-            <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
-
-        </div>
-
-
-
-
-        <div class="section-2-image-inhover">
-            <div class="image-hoverbox" data-aos="flip-right" data-aos-duration="500">
-                <div class="why-choose-img">
-                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
-                    <a href="/" style="text-decoration: none; align-items: center;">
-                        <button class="sec-2-hover-class sec2textup">View Blogs</button>
-                    </a>                    
-                </div>
-                
-                <div class="why-choose-text">
-                    <h2 style="color: #191919;">Well maintained</h2>
-                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
-
-                </div>
                     
-                
-            </div>
-
-            <div class="image-hoverbox" data-aos="flip-left" data-aos-duration="500" data-aos-delay="150">
-                <div class="why-choose-img">
-                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
-                    <a href="/" style="text-decoration: none; align-items: center;">
-                        <button class="sec-2-hover-class sec2textup">View Blogs</button>
-                    </a>                    
-                </div>
-                
-                <div class="why-choose-text">
-                    <h2 style="color: #191919;">Well maintained</h2>
-                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
-
-                </div>
-                    
-                
-            </div>
-
-            <div class="image-hoverbox" data-aos="fade-down" data-aos-duration="500" data-aos-delay="300">
-                <div class="why-choose-img">
-                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
-                    <a href="/" style="text-decoration: none; align-items: center;">
-                        <button class="sec-2-hover-class sec2textup">View Blogs</button>
-                    </a>                    
-                </div>
-                
-                <div class="why-choose-text">
-                    <h2 style="color: #191919;">Well maintained</h2>
-                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
-
-                </div>
-                    
-                
-            </div>
-
+                    <h3 style="color: rgb(0, 0, 0,0.75); line-height: 25px;">
+                        Our craft is producing thought-provoking, result-driven, visually impeccable photo & video content with the highest production values. We offer full pre and post-production services, including creative and storyboarding, filming, editing, subtitling (if necessary), and media formatting, distribution, and marketing.
+                    </h3>
             
+                    <h3 style="color: rgb(0, 0, 0,0.75);">
+                        Our area of expertise spans many industries-tech, electronics, fashion, construction, pharma, education, and more. No matter your industry, we can cast our magic to create imagery that suits your brand the best.
+                    </h3>
+            
+                    <br><br>
+                    <h3 style="color: rgb(0, 0, 0,0.8);">ECOMMEREC Photography IMPORTENT ON AMAZON FILPKART</h3>
+                    
+                    <h3 style="color: rgb(0, 0, 0,0.75);">
+                        Whether you are looking to increase conversion rates, improve customer engagement, raise awareness, or quickly scale your content, a photographic approach can help.
+                    </h3>
+            
+                    <br><br>
+                    <h3 style="color: rgb(0, 0, 0,0.8);">ECOMMERCE PHOTOGRAPHY PRICING</h3>
+                    
+                    <h3 style="color: rgb(0, 0, 0,0.75);">
+                        We offer simple, innovative and affordable ecommerce product photography price in delhi. We did professional ecommerce photography services near me for big brands and online e-commerce websites including amazon, flipkart, myntra, jabong, paytm, ebay, etsy, snapdeal, ajio, tata cliq etc. We also enjoy working with independent firms, start-ups, individuals, small scale industries and companies to do best catalogue shoot in delhi. We take the most challenging projects and supply the top-notch still product photography from highly reflective products to big and large furniture.
+                    </h3>
+                    <br>
+                    <h3 style="color: rgb(0, 0, 0,0.75);">
+                        Our ecommerce photography pricing depend on type of product, product sizing, product quantity, shooting location and shooting time. This is our approx charges of single product. We will share you our best product photography charges after discuss on call, email or whatsapp about your product category, product qty and what type of photoshoot do you need. After discuss all about thing we will send you final product photography quotation on email.
+                    </h3>
+            
+                    <br><br>
+                    
+                </div>
+            
+                <div style="width: 96%; justify-content: center; text-align: center;">
+            
+                    <h3 style="color: rgb(0, 0, 0,0.9);">Approximate ecommerce photography pricing in delhi</h3>
+            
+                    <table id="table-pricing" class="bordr">
+                        <tr>
+                            <th class="bordr" style="font-weight: bold; font-style: oblique;">Product Photography</th>
+                            <th class="bordr" style="font-weight: bold; font-style: oblique;">Average Cost</th>
+                        </tr>
+                        <tr>
+                            <td class="bordr">Apparel Photography</td>
+                            <td class="bordr">Rs. 100 to Rs. 500</td>
+                        </tr>
+                        <tr>
+                            <td class="bordr">Footwear Photography</td>
+                            <td class="bordr">Rs. 120 to Rs. 350</td>
+                        </tr>
+                        <tr>
+                            <td class="bordr">Ghost Mannequin Shoot</td>
+                            <td class="bordr">Rs. 150 to Rs. 450</td>
+                        </tr>
+                        <tr>
+                            <td class="bordr">Jewellery Photography</td>
+                            <td class="bordr">Rs. 130 to Rs. 480</td>
+                        </tr>
+                        <tr>
+                            <td class="bordr">Hanbag Photography</td>
+                            <td class="bordr">Rs. 100 to Rs. 400</td>
+                        </tr>
+                        
+                        
+                    </table>
+            
+                </div>
+            
+            </div>
+            
+        </section>
 
-        </div>
-        <a href="/" >
-            <button class="why-choose-view-more">View More</button>
-        </a>
+
+
+
+
+
         <hr><br><br>
 
         <!--call now screen with assured by our-->
@@ -695,7 +768,7 @@ function plusSlides(n) {
                 strings: ['Account managing ✓<br>Product listing ✓<br>content writing ✓<br>E-commerece shots ✓<br>Outdoor shots ✓'],
                 typeSpeed: 40,
                 backSpeed: 20,
-                backDelay: 11000,
+                backDelay: 9000,
                 loop: scrollTo
                 });
     
@@ -704,8 +777,8 @@ function plusSlides(n) {
                 var typed6 = new Typed('#servise-type2', {
                 strings: ['Website design ✓<br>Website devolpment ✓<br>Provide <strong>Intership</strong> for students ✓<br>Free <strong>course</strong> for students ✓<br> etc... '],
                 typeSpeed: 40,
-                backSpeed: 20,
-                startDelay: 10000,
+                backSpeed: 15,
+                startDelay: 9500,
                 loop: scrollY
                 });
     
@@ -719,37 +792,94 @@ function plusSlides(n) {
 	</section>
 
 
+
+<!--why chosse us -->
+
+    <section>
+
+        
+        <div class="section2-center-class">
+            <button style="background-color: #ff1e56; color: white; padding: 15px;"> <h3> Why choose us ! </h3></button><br><br>
+            <h2>hyy here we are providsjkajfkajkdf</h2>
+            
+            <br>
+            <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
+
+        </div>
+
+
+
+
+        <div class="section-2-image-inhover">
+            <div class="image-hoverbox" data-aos="flip-right" data-aos-duration="500">
+                <div class="why-choose-img">
+                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
+                    <a href="/" style="text-decoration: none; align-items: center;">
+                        <button class="sec-2-hover-class sec2textup">View Blogs</button>
+                    </a>                    
+                </div>
+                
+                <div class="why-choose-text">
+                    <h2 style="color: #191919;">Well maintained</h2>
+                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
+
+                </div>
+                    
+                
+            </div>
+
+            <div class="image-hoverbox" data-aos="flip-left" data-aos-duration="500" data-aos-delay="150">
+                <div class="why-choose-img">
+                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
+                    <a href="/" style="text-decoration: none; align-items: center;">
+                        <button class="sec-2-hover-class sec2textup">View Blogs</button>
+                    </a>                    
+                </div>
+                
+                <div class="why-choose-text">
+                    <h2 style="color: #191919;">Well maintained</h2>
+                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
+
+                </div>
+                    
+                
+            </div>
+
+            <div class="image-hoverbox" data-aos="fade-down" data-aos-duration="500" data-aos-delay="300">
+                <div class="why-choose-img">
+                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
+                    <a href="/" style="text-decoration: none; align-items: center;">
+                        <button class="sec-2-hover-class sec2textup">View Blogs</button>
+                    </a>                    
+                </div>
+                
+                <div class="why-choose-text">
+                    <h2 style="color: #191919;">Well maintained</h2>
+                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
+
+                </div>
+                    
+                
+            </div>
+
+            
+
+        </div>
+        <a href="/" >
+            <button class="why-choose-view-more">View More</button>
+        </a>
+    </section>
+
+
+
+
+
+
+
     <section>
 
 
-        <section>
-
-            <div class="section2-center-class">
-                <button style="background-color: #999932; color: white; padding: 15px; border: none; border-radius: 30%;"> <h3> << Our Partner's >> </h3></button><br><br>
-                <h2>hyy here we are providsjkajfkajkdf</h2><br>
-                <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
-    
-            </div><br><br><br>
-
-            <div class="container-slick-partner">
-      
-                <section class="our-partner-slid slider">
-                   <div class="slide"><img src="/footer.png" ></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                   <div class="slide"><img src="/footer.png"></div>
-                </section>
-                
-            </div>
-            <script src="/contant/js/section2/slick-slider-manual-our-partner.js"></script>
-
-
-        </section>
+        <br><br>
 
 
 <!--heere our certifacte list-->
@@ -758,8 +888,13 @@ function plusSlides(n) {
                 <div class="amazon-dono-certifacte">
                     <button style="background-color: #ff1e56; color: white; padding: 15px; align-items: center;"> <h3> Verified </h3></button><br><br>
                     <h2> We are certified by <strong>AMAZON</strong></h2><br>
-                    <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
+                    <p style="color: #4c4c4c;">
+                        Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites thaBusiness-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites thaBusiness-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha
+                    
+                        <a href="#" id="certificate-see-more-button">know More...</a>
+                    </p>
 
+                    
                 </div>
 
                 <div class="amazon-dono-certifacte">
@@ -770,95 +905,59 @@ function plusSlides(n) {
 
             </section>
 
-                <div class="always-center-class">
-                    <a href="/">
-                        <button id="certificate-see-more-button"> <h3> See More >> </h3></button><br><br>
-                    </a>
-                </div>
 
 
-
-            <br><br><hr><hr>
-
-<!--our team -->
-        <section>
-
-            
-                <div class="always-center-class">
-                    <button style="background-color: #b266b2; padding: 8px; font-weight: bold; border: none; border-radius: 5%;">
-                        <h1> << MY Team >> </h1>
-                    </button>
-
-                    <h2 style="color: #4c4c4c;">Meet our Experts</h2><br>
-                </div>
-                
-                
-    
             <br><br>
 
-            <div class="container-slick-partner">
-      
-                <section class="our-Client slider">
-                   <div class="slide"><img src="/footer.png" >
-                    <h2 class="always-center-class" style="color: #ff1e56;"> priyanshu </h2>
-                    <h3 class="always-center-class"> account manager</h3><br>
-                    <a href="/">
-                        <button type="button"  class="kow-more-our-team"><h1> Know More ! </h1></button>
-                    </a>
 
+<!--our partner are here-->
+
+            <section>
+
+                <div class="section2-center-class">
+                    <button class="our-servise-style-text"> <h3> Our Partner's </h3></button><br><br>
+                    <h2 class="sub-hed-after-btn-type">hyy here we are providsjkajfkajkdf</h2><br>
+                    <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
+        
+                </div><br><br><br>
+    
+                <div class="container-slick-partner" style="cursor: grab;">
+          
+                    <section class="our-partner-slid slider" style="cursor: grab;">
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png" ></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                    </section>
+                    
                 </div>
-
-                   <div class="slide"><img src="/footer.png">
-                    <h2 class="always-center-class" style="color: #ff1e56;"> priyanshu </h2>
-                    <h3 class="always-center-class"> account manager</h3><br>
-                    <a href="/">
-                        <button type="button"  class="kow-more-our-team"><h1> Know More ! </h1></button>
-                    </a>
-                </div>
-
-                   <div class="slide"><img src="/footer.png">
-                    <h2 class="always-center-class" style="color: #ff1e56;"> priyanshu </h2>
-                    <h3 class="always-center-class"> account manager</h3><br>
-                    <a href="/">
-                        <button type="button"  class="kow-more-our-team"><h1> Know More ! </h1></button>
-                    </a>
-                </div>
-
-                   <div class="slide"><img src="/footer.png">
-                    <h2 class="always-center-class" style="color: #ff1e56;"> priyanshu </h2>
-                    <h3 class="always-center-class"> account manager</h3><br>
-                    <a href="/">
-                        <button type="button"  class="kow-more-our-team"><h1> Know More ! </h1></button>
-                    </a>
-                </div>
-
-                   <div class="slide"><img src="/footer.png">
-                    <h2 class="always-center-class" style="color: #ff1e56;"> priyanshu </h2>
-                    <h3 class="always-center-class"> account manager</h3><br>
-                    <a href="/">
-                        <button type="button"  class="kow-more-our-team"><h1> Know More ! </h1></button>
-                    </a>
-                </div>
-
-                   <div class="slide"><img src="/footer.png">
-                    <h2 class="always-center-class" style="color: #ff1e56;"> priyanshu </h2>
-                    <h3 class="always-center-class"> account manager</h3><br>
-                    <a href="/">
-                        <button type="button"  class="kow-more-our-team"><h1> Know More ! </h1></button>
-                    </a>
-                </div>
-
+                <script src="/contant/js/section2/slick-slider-manual-our-partner.js"></script><br>
+    
                 
-                </section>
-                
-            </div><br><br><br>
-            <script src="/contant/js/section2/slick-slider-manual-our-client.js"></script>
+    
+    
+            </section>
 
 
+
+    
         </section>
 
 
-    </section>
+
+
+
+
+
+
+
+
+
 
 <!--contact us form-->    
 
@@ -875,7 +974,7 @@ function plusSlides(n) {
             <h3 style="opacity: 0.8;">Questions, comments, concerns or suggestions? We love hearing from our community, so feel free to reach out anytime.</h3>
             <h3 style="opacity: 0.8;">You can send me a mail also on <a href="mailto: trusteepartner@gmail.com" style="text-decoration: none;color: black; opacity: 0.8;">contact@trusteepartner.in</a></h3>
             <br>
-            <form action="submit" method="post" id="get-in-tuch">
+            <form onsubmit="alert('Your form is now Submitted');" action="index.php" method="post" id="get-in-tuch">
 
                 <label for="fname"><h3>Name* :</h3></label>
                 <input type="text" id="fname" minlength="5" maxlength="25" name="fname" placeholder="Enter your name" class="textbox-class" >
@@ -904,103 +1003,326 @@ function plusSlides(n) {
 
         <div class="always-center-class">
             <button style="background-color: #4ca64c; padding: 8px; font-weight: bold; border: none; border-radius: 5%;">
-                <h1>Client’s Reviews</h1>
+                <h1>Client's Reviews</h1>
             </button>
 
         </div>
 
         <br><br><br>
 
-        <div class="container-slick-partner">
+        <div class="container-slick-partner" style="cursor: grab;">
   
-            <section class="our-Client slider">
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+            <section class="our-Client slider" style="cursor: grab;">
+                <div class="slide" style="cursor: grab;">
+
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seaml10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Cusess Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
+
+                </div>
+                
+
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magent10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Cuso Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting.10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Cus Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+               <div class="slide" style="cursor: grab;">
+                    
+                    <div class="box-client-reviw">
+                        
 
-                </div>
+                        <div class="main-review-thought">
+                            <br>
+                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, CusProvide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                        </div>
 
-               <div class="slide"><img src="/footer.png" >
-                <h3 class="always-center-class">
-                    heldsfjakdjfkadsj
-                </h3>
-                <br>
-                <h3 style="color: #ff1e56;" class="always-center-class"> ~ Priyanshu </h3>
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white">&#9734;</span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        
+                        <p class="posted-company-name">Amazone A1 Seller</p>
+                    </div>
+                    <br><br>
 
                 </div>
 
             </section>
             
-        </div><br><br><br><br>
+        </div><br>
         <script src="/contant/js/section2/slick-slider-manual-our-client.js"></script>
 
     </section>
+
+
+
+
+
+
+
+
+
+    
+<!-- thought sectioin  here start -->
+
+
+<br><br><br><br>
+<section>
+
+
+    <div class="dubolcotes-error-where-thought1">
+        &#786  &#786
+    </div>
+
+
+    <div class="thought">
+        <div class="maintought">
+            <div class="main-thou-text-here">
+                hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours
+            </div> 
+        </div>
+    </div>
+
+    <div class="dubolcotes-error-where-thought2">
+        &#787  &#787
+    </div>
+
+
+</section>
+
+
+
+
+
+
 
 
 
@@ -1076,7 +1398,7 @@ function plusSlides(n) {
                                     </li>
                                     <br>
                                     <li>
-                                        <a href="/privacy-policy.html" class="quick_nav"><b>Privacy Policy</b></a>
+                                        <a href="/Privacy-policy.html" class="quick_nav"><b>Privacy Policy</b></a>
                                     </li>
                                 </ul>
                             </ul>
@@ -1214,7 +1536,7 @@ function plusSlides(n) {
     window.onscroll = function() {scrollFunction()};
     
     function scrollFunction() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
         mybutton.style.display = "block";
       } else {
         mybutton.style.display = "none";
@@ -1254,25 +1576,24 @@ function plusSlides(n) {
 
 
 <!--host server send entry of contact into-->
-
 <?php
 if(isset($_POST['fname'] )&& isset($_POST['fmobile'] ) && isset($_POST['fsubject']) && isset($_POST['fmessage']))
 {
 
-//    echo "<h1>Coming Here</h1>";
+   echo "<h2>Coming Here</h2>";
 
-$fname = $_POST['fname'];
-$fmobile = $_POST['fmobile'];
-$fsubject = $_POST['fsubject'];
-$fmessage = $_POST['fmessage'];
+$ffname = $_POST['fname'];
+$ffmobile = $_POST['fmobile'];
+$ffsubject = $_POST['fsubject'];
+$ffmessage = $_POST['fmessage'];
 
 
-$conn = mysqli_connect("localhost","root","","test") or die("Couldn't connect");
-$db = mysqli_select_db($conn,"test") or die("Couldn't Connect");
-$query = "INSERT INTO contact(fname,fmobile,fsubject,fmessage) VALUES ('$fname','$fmobile','$fsubject','$fmessage')";
+$conn = mysqli_connect("localhost","root","","homecont") or die("Couldn't connect");
+$db = mysqli_select_db($conn,"homecont") or die("Couldn't Connect");
+$query = "INSERT INTO contact(fname,fmobile,fsubject,fmessage) VALUES ('$ffname','$ffmobile','$ffsubject','$ffmessage')";
 $result = mysqli_query($conn,$query);
 
-//echo "<meta http-equiv='refresh' content='500;url=http://localhost/saveaddress1.php'>";
+echo "<meta http-equiv='refresh' content='0;url=http://localhost/listing.html'>";
 }
 ?>
 
