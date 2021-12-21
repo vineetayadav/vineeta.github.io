@@ -221,11 +221,9 @@
             <label for="join-mail" style="font-size: x-large;">Email Id <span style="color: red;">*</span></label>
             <input type="email" name="join-mail" minlength="5" maxlength="50" id="join-mail" class="textbox-cont-main-us" required ><br><br>
 
+           
             <label for="join-shop-name" style="font-size: x-large;"> Shop/Brand/Business Name <span style="color: red;">*</span></label>
             <input type="name" name="join-shop-name" minlength="2" maxlength="50" id="join-shop-name" class="textbox-cont-main-us" required ><br><br>
-
-            <label for="join-how-help" style="font-size: x-large;">How can we help you <span style="color: red;">*</span></label>
-            <input type="name" name="join-how-help" minlength="5" maxlength="50" id="join-how-help" class="textbox-cont-main-us" required ><br><br>
 
             <label for="join-how-help" style="font-size: x-large;">How can we help you <span style="color: red;">*</span></label>
             <select name="join-how-help" id="join-how-help" class="textbox-cont-main-us" required>
@@ -330,7 +328,7 @@
 
         <div class="fix-width-he-cont-us-main">
 
-            <form action="contact-us.html" method="post" id="get-in-touct-main">
+            <form onsubmit="alert('Your form is now Submitted');" action="contact-us.html" method="post" id="get-in-touct-main">
 
                 <label for="name" style="font-size: x-large;"> Name <span style="color: red;">*</span></label>
                 <input type="name" name="name" minlength="3" maxlength="50" id="name" class="textbox-cont-main-us" required><br><br>
@@ -663,24 +661,52 @@
 
 <!--host server send entry of contact into-->
 
+
 <?php
-if(isset($_POST['fname'] )&& isset($_POST['fmobile'] ) && isset($_POST['fsubject']) && isset($_POST['fmessage']))
+if(isset($_POST['name'] )&& isset($_POST['mobile'] ) && isset($_POST['subject']) && isset($_POST['message']))
 {
 
-//    echo "<h1>Coming Here</h1>";
+//    echo "<h2>Coming Here</h2>";
 
-$fname = $_POST['fname'];
-$fmobile = $_POST['fmobile'];
-$fsubject = $_POST['fsubject'];
-$fmessage = $_POST['fmessage'];
+$conname = $_POST['name'];
+$conmobile = $_POST['mobile'];
+$consubject = $_POST['subject'];
+$conmessage = $_POST['message'];
 
 
-$conn = mysqli_connect("localhost","root","","test") or die("Couldn't connect");
-$db = mysqli_select_db($conn,"test") or die("Couldn't Connect");
-$query = "INSERT INTO contact(fname,fmobile,fsubject,fmessage) VALUES ('$fname','$fmobile','$fsubject','$fmessage')";
+$conn = mysqli_connect("localhost","root","","contactus") or die("Couldn't connect");
+$db = mysqli_select_db($conn,"contactus") or die("Couldn't Connect");
+$query = "INSERT INTO contact(name,mobile,subject,message) VALUES ('$conname','$conmobile','$consubject','$conmessage')";
 $result = mysqli_query($conn,$query);
 
-//echo "<meta http-equiv='refresh' content='500;url=http://localhost/saveaddress1.php'>";
+echo "<meta http-equiv='refresh' content='0;url=http://localhost/paymentss1.php'>";
+}
+?>
+
+
+
+
+<?php
+if(isset($_POST['join-name'] )&& isset($_POST['join-mobile'] ) && isset($_POST['join-mail']) && isset($_POST['join-shop-name']) && isset($_POST['join-how-help'])&& isset($_POST['join-address'] ) && isset($_POST['join-message']) && isset($_POST['join-reffer']))
+{
+
+    echo "<h1>Coming Here</h1>";
+
+$name = $_POST['join-name'];
+$numberr = $_POST['join-mobile'];
+$city = $_POST['join-mail'];
+$area = $_POST['join-shop-name'];
+$code = $_POST['join-how-help'];
+$citye = $_POST['join-address'];
+$areae = $_POST['join-message'];
+$codee = $_POST['join-reffer'];
+
+$conn = mysqli_connect("localhost","root","","contactus") or die("Couldn't connect");
+$db = mysqli_select_db($conn,"contactus") or die("Couldn't Connect");
+$query = "INSERT INTO joinnow(name,phone,email,shopname,howhelp,address,message,reffer) VALUES ('$name','$numberr','$city','$area','$code','$citye','$areae','$codee')";
+$result = mysqli_query($conn,$query);
+
+echo "<meta http-equiv='refresh' content='0;url=http://localhost/saveaddress1.php'>";
 }
 ?>
 
