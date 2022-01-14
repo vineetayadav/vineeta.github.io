@@ -100,7 +100,7 @@
 
 
 #setting-imgae-loader1{
-    background-image: url(/contant/image/servise/setting-rotate.png);
+    background-image: url(/contant/image/servise/Web-design.png);
     margin-left: 81%;
     margin-top: 1%;
     position: relative;
@@ -124,7 +124,7 @@
 }
 
 #setting-imgae-loader2{
-    background-image: url(/contant/image/servise/setting-rotate.png);
+    background-image: url(/contant/image/servise/Web-design.png);
     background-size: cover;
     margin-left: 78.5%;
     margin-top: -4%;
@@ -296,7 +296,7 @@
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/contant/image/servise/svg-upddd.png);
+    background-image: url(/contant/image/servise/Website-devlopment.png);
     height: 200px;
 }
 #text-size-change-web-design{
@@ -350,10 +350,16 @@
     width: 48%;
 }
 
+.imgimg-program{
+    background-image: url(/contant/image/servise/program/intership.gif);
+}
+.imgimg-web-design{
+    background-image: url(/contant/image/servise/Website-design.gif);
+}
 #img-back-anima-with-3or{
     width: 100%;
     height: 100%;
-    background-image: url(/contant/image/servise/3nd-our-3-telling.gif);
+    
     border-radius: 50px;
     background-size: contain;
     background-repeat: no-repeat;
@@ -504,10 +510,10 @@
     margin: 5em 0px 3em 0px;
 }
 #edu-web{
-    background-image: url(/contant/image/servise/edu-web.png);
+    background-image: url(/contant/image/servise/Education-website.png);
 }
 #corpr-web{
-    background-image: url(/contant/image/servise/corpratee.png);
+    background-image: url(/contant/image/servise/Business-website.png);
 }
 
 

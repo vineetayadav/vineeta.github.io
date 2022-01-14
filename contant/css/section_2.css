@@ -7,19 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .section-2-image-inhover{
   display: -webkit-inline-flex;
   margin: 0;
@@ -36,7 +23,8 @@
 }
 
 .why-choose-img{
-  height: 216px;
+  height: 210px;
+  margin: 2em 0.5em 2em 0.5em;
 }
 
 .why-choose-text{
@@ -170,8 +158,9 @@
 .call-now-background-full{
   margin-top: 0.5em;
   max-width: 100%;
-  background-image: url(/a.jpg);
-  border: 0.1px solid white;
+  background-image: url(/contant/image/home/best&call/background.png);
+  background-size: contain;
+  border: 0.01px solid white;
 }
 
 .call-now-cntt-with-full-dono{
@@ -190,9 +179,12 @@
 
 .call-now-main-show-cntt{
   width: 352px;
+  padding-top: 2em;
+  margin: 0.5em;
 }
 .call-now-main-show-image{
-  height: 198px;
+  height: 190px;
+  margin-bottom: 2em;
 }
 .call-now-main-show-text{
   text-align: center;

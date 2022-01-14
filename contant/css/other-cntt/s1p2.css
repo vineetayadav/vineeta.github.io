@@ -1,13 +1,15 @@
 #chek-img-photo{
-    background-image: url(/fw_al_007_02.jpg);
+    background-image: url(/contant/image/servise/photoshot/Photoshoot.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 95vh;
+    max-height: 95vh;
 }
 
 #text-bgg-fir{
-    padding-top: 14em;
+    padding-top: 80vh;
     text-align: center;
     font-size: xx-large;
     letter-spacing: 2px;
@@ -193,17 +195,17 @@
 .fnl-btn-con{
     padding: 6px 10px 6px 10px;
     font-size: large;
-    color: #000088;
+    color: white;
     text-decoration: none;
     border-radius: 20px;
     cursor: pointer;
     font-weight: bold;
 }
 .bk1{
-    background-color: #ffb300;
+    background-color: #00717a;
 }
 .bk2{
-    background-color: green;
+    background-color: blue;
 }
 .fnl-btn-con:hover{
     text-decoration: underline;

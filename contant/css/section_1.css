@@ -57,15 +57,18 @@
 }
 .slide-see-more-btn{
   cursor: pointer;
-  padding: 15px;
+  padding: 11px;
   background-color: #ff1e56;
   text-decoration: none;
   color: white;
+  margin-top: 2em;
+  border-radius: 25px;
 }
 .slider-width-height{
-  min-height: 320px;
-  max-height: 550px;
-  width: 100%;
+  min-height: 85vh;
+  max-height: 85vh;
+  min-width: 100%;
+  max-width: 100%;
   object-fit: fill;
   object-position: top;
 }

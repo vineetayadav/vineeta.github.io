@@ -100,7 +100,7 @@
 /*about us page disgin here */
 
 #about-us-back-with-img{
-    background-image: url(/contant/image/home/contant-us.jpg);
+    background-image: url(/contant/image/home/contant-us.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
@@ -320,6 +320,12 @@
     letter-spacing: 2px;
     margin-top: -2.5em;
 }
+.name-flot{
+    float: right;
+    margin-right: 0.5em;
+    margin-top: 1em;
+}
+
 
 .dubolcotes-error-where-thought1{
     font-size: 90px;

@@ -1,8 +1,13 @@
 #back-listing-img{
-  background-image: url(/contant/image/servise/list-photo/fw_al_007_01.jpg);
+  background-image: url(/contant/image/servise/list-photo/product-listing-on-e-commerce-website.svg);
   background-attachment: fixed;
-  width: 100%;
-  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 95vh;
+  max-height: 95vh;
+  margin: 0;
 }
 
 #fix-side-width{
@@ -195,8 +200,10 @@
 #img-2nd-wali{
   width: 31%;
   height: auto;
-  background-image: url(/fw_al_007_02.jpg);
+  background-image: url(/contant/image/servise/list-photo/backk.jpg);
   background-attachment: fixed;
+  background-size: fill;
+  background-repeat: no-repeat;
   display: block;
 }
 
@@ -214,7 +221,7 @@
 .counter-number-full-back{
   background-color: black;
   width: 100%;
-  margin-top: 8em;
+  margin-top: 5em;
   display: -webkit-flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -225,7 +232,7 @@
   width: 310px;
   height: auto;
   text-align: center;
-  padding: 2.5em 0.5em 2.5em 0.5em;
+  padding: 1em 0.5em 1.4em 0.5em;
 }
 .number-change-with-counter{
   color: white;
@@ -246,9 +253,11 @@
 
 
 #sell-10x{
-  background-image: url(/fw_al_007_03.jpg);
+  background-image: url(/contant/image/servise/list-photo/time-to-sell.svg);
   background-attachment: fixed;
-  padding: 3em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1.8em;
   justify-content: center;
   text-align: center;
 }
@@ -264,7 +273,7 @@
   background-color: #cc8f00;
   color: #000088;
   padding: 5px 9px 5px 9px;
-  margin: 3em 0px 0px 0px;
+  margin: 1.7em 0px 0px 0px;
   border-radius: 50px;
   cursor: pointer;
   font-size: x-large;
@@ -430,9 +439,11 @@
 }
 
 #pricing-back{
-  background-image: url(/fw_al_007_03.jpg);
+  background-image: url(/contant/image/servise/list-photo/how-to-grow-online-sell-10X.svg);
   background-attachment: fixed;
-  padding: 3em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 2em;
   display: -webkit-flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -442,7 +453,7 @@
 #priceing-text-some-fnt{
   background-image: linear-gradient(to right, yellow,yellow,#ffff66,white,white,white,white);
   width: max-content;
-  padding: 1em 2.5em 1em 2.5em;
+  padding: 0.7em 2em 0.7em 2em;
   font-size: x-large;
   text-shadow: 1px 1px 2px black, 0 0 2px blue, 0 0 1px darkblue;
 }

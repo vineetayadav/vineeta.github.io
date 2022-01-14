@@ -211,8 +211,11 @@
   .column {
     float: left;
     width: 33.3333%;
+    height: 70px;
   }
-  
+  #column-for{
+      width: 25%;
+  }
   /* Add a transparency effect for thumnbail images */
   .demo {
     opacity: 0.6;
