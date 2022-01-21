@@ -55,6 +55,12 @@
     background-color: white;
 }
 
+#center-pro-services{
+    font-size: 17px;
+    word-spacing: 1.5px;
+    text-align: center;
+}
+
 .like-parr-text{
     padding: 0.5em;
 }
@@ -80,6 +86,14 @@
     width: 100%;
 }
 
+#more-info-call{
+    text-decoration: none;
+    color: #191919;
+}
+#more-info-call:hover{
+    color: blue;
+    text-decoration: underline;
+}
 
 
 .visit-org-site-hov{

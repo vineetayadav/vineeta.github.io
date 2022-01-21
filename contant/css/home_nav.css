@@ -156,6 +156,17 @@ nav
  }
 
  
+
+/*read more button here */
+#mtl1, #mtl2, #mtl3, #mth1, #mth2, #mth3, #mtab1, #mtab2, #mtab3, #mto1, #mto1, #mto3 {
+    display: none;
+}
+.rmb-b-s{
+    color: blue;
+    cursor: pointer;
+    font-size: small;
+}
+
  @media all and (max-width:1250px) {
     .main_logo{
         width: 250px;

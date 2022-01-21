@@ -50,6 +50,23 @@
     text-align: center;
     background-color: rgb(255, 179, 0,0.7);
 }
+/*
+#text-oth1{
+  margin-left: 2%;
+}
+#text-oth2{
+  margin-left: 68%;
+}
+#text-oth1, #text-oth2{
+  width: 30%;
+  background-color: rgb(255, 179, 0);
+  bottom: 12%;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+}*/
 
 
 .slideshow-container:hover .text{
@@ -161,7 +178,16 @@
     from {opacity: .4} 
     to {opacity: 1}
   }
-  
+/*  
+  @media all and (max-width: 1000px) {
+    #text-oth1{
+      width: 80%;
+    }
+    #text-oth2{
+      width: 80%;
+      margin-left: 17%;
+    }
+  }*/
   @media all and (max-width: 600px) {
     .slide-see-more-btn{
       padding: 5px;
