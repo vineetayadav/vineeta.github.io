@@ -4,6 +4,53 @@
     box-sizing: border-box;
 }
 
+#trustee-partner-full-bck{
+  background-image: url(/contant/image/one_use/footer.png);
+  padding: 2em;
+  opacity: 0.9;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+#bi-te-hero{
+  font-size: 95px;
+  color: white;
+  line-height: 114px;
+  padding: 33vh 1.3em 0em 0.5em;
+  font-weight: 400;
+  font-family: 'DM Serif Display';
+}
+
+#full-subheader-done{
+  width: 100%;
+  display: inline-block;
+}
+#subheader-text-ecommerce{
+  margin-top: 16vh;
+  float: right;
+  color: white;
+  margin-right: 2em;
+  font-size: x-large;
+  width: 40%;
+}
+#cont-btn-drt{
+  background-color: #e5e500;
+  color: black;
+  padding: 6px 9px 6px 9px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: x-large;
+  margin-left: 42%;
+}
+#cont-btn-drt:hover{
+  outline: none;
+  border: none;
+}
+
 
 /* Slideshow container */
 .slideshow-container {
@@ -188,6 +235,17 @@
       margin-left: 17%;
     }
   }*/
+
+  @media all and (max-width: 900px) {
+    #bi-te-hero{
+      font-size: 55px;
+      line-height: 70px;
+    }
+    #cont-btn-drt{
+      margin-left: 34%;
+    }
+  }
+
   @media all and (max-width: 600px) {
     .slide-see-more-btn{
       padding: 5px;
@@ -198,10 +256,40 @@
       width: 80%;
       margin-left: 10%;
     }
+
+    #bi-te-hero{
+      font-size: 45px;
+      line-height: 55px;
+    }
+    #cont-btn-drt{
+      margin-left: 30%;
+    }
+    #subheader-text-ecommerce{
+      width: 75%;
+    }
     
+  }
+
+  @media only screen and (max-width: 500px) {
+    #bi-te-hero{
+      font-size: 25px;
+      line-height: 35px;
+    }
+    #cont-btn-drt{
+      margin-left: 25%;
+      font-size: large;
+      padding: 3px 5px 3px 5px;
+    }
+    #subheader-text-ecommerce{
+      width: 80%;
+      font-size: large;
+    }
   }
 
   /* On smaller screens, decrease text size */
   @media only screen and (max-width: 300px) {
     .prev, .next,.text, #trustee_partner_text_animation {font-size: 11px}
+    #cont-btn-drt{
+      margin-left: 0;
+    }
   }

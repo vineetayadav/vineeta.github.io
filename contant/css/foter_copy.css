@@ -203,6 +203,7 @@
     width: 43%;
     margin-left: 4em;
     color: #666666;
+    font-size: small;
 }
 
 #who-we-are-image-width-height-adjust{
@@ -243,6 +244,15 @@
 }
 .img-my-setup{
     
+}
+
+.go-contat-us{
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+}
+.go-contat-us:hover{
+    color: blue;
+    text-decoration: underline;
 }
 
 @media all and (max-width: 1030px) {

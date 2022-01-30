@@ -166,6 +166,9 @@ nav
     cursor: pointer;
     font-size: small;
 }
+.rmb-b-s:hover{
+    color: rgb(0, 0, 0,0.6);
+}
 
  @media all and (max-width:1250px) {
     .main_logo{

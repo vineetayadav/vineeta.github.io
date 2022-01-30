@@ -1,0 +1,65 @@
+/*copyright by : Trustee partner
+Design & develop by : priyanshu yadav
+mail id: priyanshuyadav2002@yahoo.com
+*/
+
+#pad-2em-left{
+    margin-top: 2em;
+    padding: 3em 0 1em 4.5em;
+    background: #f9fcf9;
+}
+.hr-fr-us-big{
+    font-size: xxx-large;
+    font-weight: bold;
+}
+#hr-dw-ln-brd{
+    background-color: #ffb300;
+    height: 5px;
+    width: 13%;
+}
+#bk-main-cnt{
+    background-color: #f9fcf9;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2em;
+}
+.one-by-1-cnt{
+    width: 29%;
+    margin: 1em;
+    padding: 1.5em;
+    background-color: white;
+}
+
+.img-set-main-cnt{
+    width: 60px;
+    height: 60px;
+}
+.r-m-m-c{
+    color: black;
+    text-decoration: none;
+    bottom: 1vh;
+}
+.r-m-m-c:hover{
+    color: #ffb300;
+    text-decoration: underline;
+}
+
+
+@media all and (max-width: 805px) {
+    .one-by-1-cnt{
+        width: 42%;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .one-by-1-cnt{
+        width: 90%;
+    }
+}
+@media all and (max-width: 300px) {
+    .one-by-1-cnt{
+        width: 98%;
+    }
+}

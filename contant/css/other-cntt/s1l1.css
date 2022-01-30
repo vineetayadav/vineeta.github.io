@@ -438,6 +438,25 @@
   color: azure;
 }
 
+.flex-for-change-list-ad{
+  display: -webkit-box;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.part-4in-cls-ads{
+  width: 45%;
+  margin: 1em;
+  color: rgb(0, 0, 0,0.9);
+}
+
+.part-3in-cls-ads{
+  width: 28%;
+  margin: 1em;
+  color: rgb(0, 0, 0,0.9);
+}
+
+
 #pricing-back{
   background-image: url(/contant/image/servise/list-photo/how-to-grow-online-sell-10X.svg);
   background-attachment: fixed;
@@ -474,8 +493,35 @@
 
 }
 
-
-
+.full-back-cont-listing{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.touch-back-ecommerce{
+  padding: 1em 2em 1em 2em;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  box-shadow: 3px 3px 5px 6px rgb(0, 0, 0,0.6);
+  width: 75%;
+  justify-content: space-between;
+}
+.cont-us-listing{
+  width: max-content;
+  font-size: x-large;
+  text-align: left;
+}
+.go-cont-cousmz{
+  font-size: large;
+  width: max-content;
+  padding: 15px;
+  background-color: #e5a100;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
 
 @media all and (max-width: 1290px) {
   .one-3wali-last{
@@ -510,6 +556,10 @@
   #pro-serv-box-type{
     width: 100%;
   }
+  .touch-back-ecommerce{
+    width: 85%;
+  }
+  
 }
 
 @media all and (max-width: 950px) {
@@ -526,8 +576,16 @@
   .flip-serv-full{
     height: 450px;
   }
+  
 }
-
+@media all and (max-width: 916px) {
+  .go-cont-cousmz{
+    margin-top: 1em;
+  }
+  .touch-back-ecommerce{
+    justify-content: center;
+  }
+}
 
 @media all and (max-width: 750px) {
   #be-1st-content, #img-2nd-wali{
@@ -571,6 +629,29 @@
 }
 
 
+@media all and (max-width: 720px) {
+  .part-4in-cls-ads{
+    width: 42%;
+  }
+  .part-3in-cls-ads{
+    width: 90%;
+    text-align: center;
+  }
+  .touch-back-ecommerce{
+    width: 95%;
+  }
+}
+
+@media all and (max-width: 645px) {
+  .go-cont-cousmz{
+    font-size: medium;
+    padding: 4px;
+    margin-top: 0;
+  }
+  .cont-us-listing{
+    font-size: large;
+  }
+}
 
 @media all and (max-width: 620px) {
   .number-change-with-counter{
@@ -582,6 +663,7 @@
   .class-every-counter{
     width: 25%;
   }
+  
 }
 
 
@@ -650,20 +732,20 @@
     rotate: 90deg;
   }
 
-
-
-
-
-
-
-
-
-
-
-
+  .go-cont-cousmz{
+    font-size: small;
+    padding: 2.5px;
+  }
 
 }
 
+
+
+@media all and (max-width: 400px) {
+  .part-4in-cls-ads{
+    width: 40%;
+  }
+}
 
 /*
   overflow: auto;

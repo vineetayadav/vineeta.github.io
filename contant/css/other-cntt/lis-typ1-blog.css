@@ -154,6 +154,35 @@
     color: #000088;
 }
 
+.hr-us-in-blg{
+    width: 100%;
+    display: -webkit-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #23a3dd;
+    color: white;
+    padding: 2em;
+}
+.hri-text-fix-in-width{
+    width: 70%;
+    display: flex;
+    font-size: x-large;
+    font-weight: bold;
+}
+.hri-us-btn-clik{
+    border-radius: 20px;
+    background-color: darkblue;
+    color: white;
+    font-size: x-large;
+    padding: 9px 12px 9px 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.hri-us-btn-clik:hover{
+    background-color: white;
+    color: black;
+}
 
 
 @media all and (max-width: 650px) {
@@ -168,4 +197,13 @@
         margin: 1em;
     }
     
+}
+
+
+@media all and (max-width: 540px) {
+    .hri-text-fix-in-width{
+        width: 100%;
+        margin-bottom: 1.5em;
+        justify-content: center;
+    }
 }

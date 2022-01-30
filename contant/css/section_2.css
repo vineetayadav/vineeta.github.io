@@ -101,7 +101,6 @@
 }
 
 .explor-myself{
-  border: 2px solid black;
   margin: 1em;
 }
 .text-anim-join-now{
@@ -208,7 +207,7 @@
 
 #certificate-amazon{
   margin-top: 1em;
-  background-color: coral;
+  background-color: #f9fcf9;
   display: -webkit-flex;
   flex-direction: row;
   flex-wrap: wrap;
