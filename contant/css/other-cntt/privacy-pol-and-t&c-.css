@@ -300,3 +300,11 @@
 .date-blog-post:hover{
     color: #3232ff;
 }
+
+.list-det-li{
+    color: #ffb300;
+    text-decoration: none;
+}
+.list-det-li:hover{
+    color: lightblue;
+}

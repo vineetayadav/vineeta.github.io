@@ -8,7 +8,7 @@
 
  Version: 1.6.0
   Author: Priyanshu yadav
- Website: http://trusteepartner.in
+ Website: http://trusteepartner.tech
     
 
  */

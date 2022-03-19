@@ -6,7 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     
-	<title id="TRUSTEE_PARTNER">TRUSTEE PARTNER - A GROUP OF YOUR TRUST</title>
+	<title id="TRUSTEE_PARTNER">Best Ecommerce Account Mangement & Catalog Services in Delhi,jaipur ,India  TRUSTEE PARTNER - A GROUP OF YOUR TRUST</title>
+
+
+    <meta name="description" content="Specialists in Ecommerce account management, handling, catalog & product listing agency in Delhi, Jaipur, India. Amazon, Flipkart, Myntra, Nykaa Seller Central Services Available. Account Audit, Competitor Analysis · Amazon A+ and Enhanced Brand Content.">
+    <meta name="keywords" content="Ecommerce Account management, Flipkart Amazon Seller Services, A+ content, Competitor Analysis, Seller Central Account-Management, Best ecommerce Product lisitng services in delhi ncr, Best catalgo services in delhi ncr, ecommerce Image Editing services, Best Account-Management services in delhi ncr, Ecommerce seller services, how to uplod product on ecommerce site, how to list our product on ecommerce, Best ecommerce Services provider services, SPN">
+    <meta name="author" content="Trustee Partner |Priyanshu yadav">
+    <meta name="Image" content="">
 
     
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -17,10 +23,11 @@
     <meta name="keywords" content="trustee partner | A Group of your trust">
     
 
-
+    <link href='https://fonts.googleapis.com/css?family=DM Serif Display' rel='stylesheet'>
 	<link rel="stylesheet" href="/contant/css/home_nav.css">
     <link rel="stylesheet" href="/contant/css/section_1.css">
     <link rel="stylesheet" href="/contant/css/section_2.css">
+    <link rel="stylesheet" href="/contant/css/other-cntt/h1-f-3-1.css">
     
 
     <link rel="stylesheet" href="/contant/css/footer.css">
@@ -117,26 +124,26 @@
 	<header>
 
         <nav style="position: relative;">
-            <a href="/">
-                <img src="/contant/image/logo/first_logo.png" height="60px" width="310px" class="main_logo" alt="">
+            <a href="/" title="Trustee Partner">
+                <img src="/contant/image/logo/first_logo.png" height="60px" width="310px" class="main_logo" alt="Best ecommerce services Provider in india">
             </a>
     
             <div class="toggle tabb"><span class="bars"></span></div>
             <div id="fix">
              
-             <a href="/" class="home item" id="homeeee">HOME</a>
+             <a href="/" class="home item" title="Home" id="homeeee">HOME</a>
              <span class="dropdown-menu">
-                 <button  class="services item" >SERVICES &#8744</button>
+                 <button  class="services item" title="Services" >SERVICES &#8744</button>
                  <div class="menu-content">
-                    <a class="links-hidden item" href="listing.html">PRODUCT LISTING</a>
-					<a class="links-hidden item" href="photography.html">PHOTOGPRAPHY</a>
-					<a class="links-hidden item" href="web-design.html">WEBSITE DESIGN</a>
-					<a class="links-hidden item" href="program.html">STUDENTS PROGRAM</a>
+                    <a class="links-hidden item" href="/listing/" title="Product Listing">PRODUCT LISTING</a>
+					<a class="links-hidden item" href="/photoshoot/" title="Image Editing">PHOTOGPRAPHY</a>
+					<a class="links-hidden item" href="/web-design/" title="Web Design & Development">WEBSITE DESIGN</a>
+					<a class="links-hidden item" href="/student-program/" title="We are hiring">STUDENTS PROGRAM</a>
                  </div>
              </span>
-             <a class="tab item" href="blogs.html" >BLOGS</a>
-             <a class="tab item" href="about-us.html" >ABOUT US</a>
-             <a class="tab item" href="/contact-us.html" >CONTACT US</a>
+             <a class="tab item" href="/blogs/" title="Blog Post" >BLOGS</a>
+             <a class="tab item" href="/about/" title="About" >ABOUT US</a>
+             <a class="tab item" href="/contact-us/" title="Contact us" >CONTACT US</a>
     
             </div>
         </nav>
@@ -144,238 +151,39 @@
 
     </header>
 
+<!--first hero text-->
+    
 
-    <div class="full-top-back">
-        <div class="cntt-and-btn">
-            <h2>Want to discuss a particular service?</h2>
-        </div>
-        <div class="cntt-and-btn">
-            <a href="#back-conta">
-                <button class="btn-first-contact">TALK TO US</button>
-            </a>
-        </div>
-    </div>
+    <section id="trustee-partner-full-bck">
+        <div>
+            <div id="">
+                <div id="bi-te-hero">
+                    All Ecommerce Services To Grow Your Business
+                </div>
+            </div>
 
+            <div id="full-subheader-done">
+                <div id="subheader-text-ecommerce">
+                    You are looking for Amazon trained eCommerce specialist to help you sell your products online, you’ve come to the right place. We can help you take your business to the next level.
+                </div>
+            </div>
+            <br><br><br>
 
-
-    <section>
-        <div class="slideshow-container">
-
-            <div class="mySlides fade">
-              <a href="/"><img src="c.jpg" class="slider-width-height"></a>
-              <div class="text">
-                <h1 style="color: #000099;"><span id="trustee_partner_text_animation"></span></h1><hr>
-                <h2 style="color: #000099;"><span id="trustee_partner_text_animation11"></span></h2><hr>
-                Mid to senior-level professionals working on product development, product management or product strategy roles and professionals from across functions who are a part of the product's life cycle directly or indirectly.
-                <hr><button  class="slide-see-more-btn" title="See More" type="submit">
-                    <h3>
-                        <a href="/" class="slide-see-more-btn"> See More!</a>
-                    </h3>
+            <div id="">
+                <button id="cont-btn-drt">
+                    Get FREE Consultation
                 </button>
-              </div>
             </div>
-            
-            <div class="mySlides fade">
-                <a href="/"><img src="a.jpg" class="slider-width-height"></a>
-                <div class="text">
-                  <h1 style="color: #000099;"><span id="trustee_partner_text_animation2"></span></h1><hr>
-                  <h2 style="color: #000099;"><span id="trustee_partner_text_animation12"></span></h2><hr>
-                  Mid to senior-level professionals working on product development, product management or product strategy roles and professionals from across functions who are a part of the product's life cycle directly or indirectly.
-                  <hr><button  class="slide-see-more-btn" title="See More" type="submit">
-                      <h3>
-                          <a href="/" class="slide-see-more-btn"> See More!</a>
-                      </h3>
-                  </button>
-                </div>
-            </div>
-            
-            <div class="mySlides fade">
-                <a href="/"><img src="c.jpg" class="slider-width-height"></a>
-                <div class="text">
-                  <h1 style="color: #000099;"><span id="trustee_partner_text_animation3"></span></h1><hr>
-                  <h2 style="color: #000099;"><span id="trustee_partner_text_animation13"></span></h2><hr>
-                  Mid to senior-level professionals working on product development, product management or product strategy roles and professionals from across functions who are a part of the product's life cycle directly or indirectly.
-                  <hr><button  class="slide-see-more-btn" title="See More" type="submit">
-                      <h3>
-                          <a href="/" class="slide-see-more-btn"> See More!</a>
-                      </h3>
-                  </button>
-                </div>
-            </div>
-
-            <div class="mySlides fade">
-                <a href="/"><img src="b.jpg" class="slider-width-height"></a>
-                <div class="text">
-                  <h1 style="color: #000099;"><span id="trustee_partner_text_animation4"></span></h1><hr>
-                  <h2 style="color: #000099;"><span id="trustee_partner_text_animation14"></span></h2><hr>
-                  Mid to senior-level professionals working on product development, product management or product strategy roles and professionals from across functions who are a part of the product's life cycle directly or indirectly.
-                  <hr><button  class="slide-see-more-btn" title="See More" type="submit">
-                      <h3>
-                          <a href="/" class="slide-see-more-btn"> See More!</a>
-                      </h3>
-                  </button>
-                </div>
-            </div>
-            
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-            
-            <div class="slide-dot-combo" style="text-align:center">
-                <span class="dot" onclick="currentSlide(1)"></span> 
-                <span class="dot" onclick="currentSlide(2)"></span> 
-                <span class="dot" onclick="currentSlide(3)"></span>
-                <span class="dot" onclick="currentSlide(4)"></span>
-            </div>
-  
         </div>
+        
+    </section><br><br>
 
-
-        <!--notice box text scroll-->
-
-
-        <div class="notice_lines" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="300">
-            <marquee behavior="scroll" direction="rights"><h3>
-                <a href="" style="text-decoration: none;">
-                    &#9900 Student program interships for 2nd and 3rd year only
-                </a></h3></marquee>
-            <marquee behavior="scroll" direction="rights"><h3>
-                <a href="" style="text-decoration: none;">
-                     &#9900 Join now 
-                </a></h3></marquee>
-
-        </div>
-            
-    </section>
-<!--slider auto and mnaual script-->
-    <script>
-        var slideIndex = 0;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("dot");
-  var myTimer;
-
-showSlides();
-
-function showSlides() {    
-    var i;    
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-        dots[i].className = dots[i].className.replace(" activeslide", "");
-    }
-    slideIndex++;
-    if (slideIndex> slides.length) {slideIndex = 1}
-    dots[slideIndex-1].className += " activeslide";
-    slides[slideIndex-1].style.display = "block";
-    myTimer = setTimeout(showSlides, 5000); // Change image every 5 seconds
-}
-
-function currentSlide(no) {
-    var i;    
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
-        dots[i].className = dots[i].className.replace(" activeslide", "");
-    }
-    slideIndex = no;
-    slides[no-1].style.display = "block";
-    dots[no-1].className += " activeslide";
-    clearTimeout(myTimer);
-    myTimer = setTimeout(showSlides, 5000);
-}
-
-function plusSlides(n) {
-  var newslideIndex = slideIndex + n;
-  if(newslideIndex < 5 && newslideIndex > 0){
-     currentSlide(newslideIndex);
-  }
-}
-    </script>
-
-<!--anmation text script file downloded-->
-
-    <script src="/contant/js/typed-text-animation.js"></script>
-
-<!--anmation text in text class-->
-
-
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation', {
-        strings: ['<strong>TRUSTEE PARTNER</strong><br> `The Future of business`'],
-        typeSpeed: 10,
-        backSpeed: 20,
-        loop: true
-        });
-    </script>
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation11', {
-        strings: ['Product Listing'],
-        typeSpeed: 10,
-        backSpeed: 50,
-        cursorChar: ' !!',
-        loop: false
-        });
-    </script>
-
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation2', {
-        strings: ['<strong>TRUSTEE PARTNER</strong><br> `The Future of business`'],
-        typeSpeed: 10,
-        backSpeed: 20,
-        loop: true
-        });
-    </script>
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation12', {
-        strings: ['E-Commerce and Cateloge Shots'],
-        typeSpeed: 10,
-        backSpeed: 50,
-        startDelay: 5000,
-        cursorChar: ' !!',
-        loop: false
-        });
-    </script>
-
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation3', {
-        strings: ['<strong>TRUSTEE PARTNER</strong><br> `The Future of business`'],
-        typeSpeed: 10,
-        backSpeed: 20,
-        loop: true
-        });
-    </script>
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation13', {
-        strings: ['Website Designer'],
-        typeSpeed: 10,
-        backSpeed: 50,
-        cursorChar: ' !!',
-        startDelay: 10000,
-        loop: false
-        });
-    </script>
-
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation4', {
-        strings: ['<strong>TRUSTEE PARTNER</strong><br> `The Future of business`'],
-        typeSpeed: 10,
-        backSpeed: 20,
-        loop: true
-        });
-    </script>
-    <script>
-        var typed6 = new Typed('#trustee_partner_text_animation14', {
-        strings: ['Interships and Jobs'],
-        typeSpeed: 10,
-        backSpeed: 50,
-        cursorChar: ' !!',
-        startDelay: 15000,
-        loop: false
-        });
-    </script>
 
 
 <!--first mission to make successful seller-->
 
 
-    <div style="justify-content: center; display: flex;">
+    <div style="justify-content: center; display: flex;" title="Mission">
         <div class="fix-width-80" style="text-align: center;">
             <br><br>
             <h1 style="color: rgb(0, 0, 0,0.85);">
@@ -394,6 +202,111 @@ function plusSlides(n) {
 
 
 
+<!--type explore servises-->
+
+
+    <section>
+
+        <div id="pad-2em-left">
+            <div class="hr-fr-us-big">
+                Hire Us For
+            </div>
+            <div id="hr-dw-ln-brd"></div>
+        </div>
+        
+
+        <div id="bk-main-cnt">
+
+            <div class="one-by-1-cnt">
+                <center>
+                    <img src="/contant/image/home/best&call/catalogue-services.png" class="img-set-main-cnt" alt="Best account management services for amazon flipkart">
+                </center>
+                <br>
+                <h2>Ecommerce Catalogue service</h2>
+                <br>
+                <p style="font-size: large; opacity: 0.8;">Cataloguing your product on multiple online stores can be a tedious job, but with Trustee Partner, it's done with ease. We understand the pulse and preferences of Indian customers and know how to make them click on your products and buy them.</p>
+                <br>
+                <p>
+                    <a href="/listing/" class="r-m-m-c">Read More</a>
+                </p>
+            </div>
+
+            <div class="one-by-1-cnt">
+                <center>
+                    <img src="/contant/image/home/best&call/Advertisement-optimization.png" class="img-set-main-cnt" alt="create campaign for ecommerce product throught CPC OR CPM">
+                </center>
+                <br>
+                <h2>Advertisement Optimization</h2>
+                <br>
+                <p  style="font-size: large; opacity: 0.8;">Don’t lose customers to your competitors. Stay ahead of the game. Run PPC campaigns to get your brand name on the mind of every Internet user.</p>
+                <br><br>
+                <p>
+                    <a href="/listing/#Advertisment" class="r-m-m-c">Read More</a>
+                </p>
+            </div>
+            
+            <div class="one-by-1-cnt">
+                <center>
+                    <img src="/contant/image/home/best&call/amazon-flipkart-account-manager.png" class="img-set-main-cnt" alt="Best ecommerce amazon flipkart account manager services">
+                </center>
+                <br>
+                <h2>Account Management
+                </h2>
+                <br>
+                <p  style="font-size: large; opacity: 0.8;">Looking for a partner who can help you break into the industry or take your business to the next level? Let us introduce you to our team of experts, and we will show you the way.</p>
+                <br>
+                <p>
+                    <a href="/listing/" class="r-m-m-c">Read More</a>
+                </p>
+            </div>
+
+            <div class="one-by-1-cnt">
+                <center>
+                    <img src="/contant/image/home/best&call/website-design-and-development-services-in-delhi-ncr.png" class="img-set-main-cnt" alt="best educational website design company in delhi ncr">
+                </center>
+                <br>
+                <h2>Website Development</h2>
+                <br>
+                <p  style="font-size: large; opacity: 0.8;">Trustee partner company is the best company in the world that builds a website for you. To create a website, you will be a big star because if you have a website, it means you are a big business.</p>
+                <br>
+                <p>
+                    <a href="/web-design/" class="r-m-m-c">Read More</a>
+                </p>
+            </div>
+
+            <div class="one-by-1-cnt">
+                <center>
+                    <img src="/contant/image/home/best&call/photography-services.png" class="img-set-main-cnt" alt="best photography service for ecommerce store in delhi ncr">
+                </center>
+                <br>
+                <h2>Photography</h2>
+                <br>
+                <p  style="font-size: large; opacity: 0.8;">Thousands of e-commerce businesses use Photoshop to generate extraordinary imagery. We’re also pleased we have access to it.</p>
+                <br><br>
+                <p>
+                    <a href="/photoshoot/" class="r-m-m-c">Read More</a>
+                </p>
+            </div>
+
+            <div class="one-by-1-cnt">
+                <center>
+                    <img src="/contant/image/home/best&call/SEO-optimization-for-ecommerce-store.png" class="img-set-main-cnt" alt="product seo optimization for ecommerce store in dehi ncr">
+                </center>
+                <br>
+                <h2>Search Engine Optimization</h2>
+                <br>
+                <p  style="font-size: large; opacity: 0.8;">SEO is not just about optimizing your products, keywords and images. It's also about engaging with a community of people interested in your product. An SEO company has the resources you need to make that happen.</p>
+                <br>
+                <p>
+                    <a href="/listing/#search-engin-optimization" class="r-m-m-c">Read More</a>
+                </p>
+            </div>
+        </div>
+        
+    </section>
+    
+
+
 
 <!--2nd sectiion class-->
 
@@ -403,139 +316,149 @@ function plusSlides(n) {
 
         <section>
 
-            <div class="section2-center-class">
+            <div class="section2-center-class" title="Services">
                 <button class="our-servise-style-text"> <h3> Services </h3></button><br>
-                <h2>Take our servise in online mood</h2><br>
-                <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
+                <h2>Take our services you can buy it for use online</h2><br>
+                <p style="color: #4c4c4c;"></p>
     
             </div>
 
             <div class="container-slick">
       
                 <section class="customer-logos slider">
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg">
-                    <a href="/">
+                   <div class="slide">
+                       <img src="/contant/image/other/servise-mo/account-management.jpg" alt="Account Managment" title="Account management">
+                    <a href="/Order/Account-Management/" title="Order">
                         <button class="take-servise-hover-view-more"> See details </button>
                     </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 1000</h2>
+                    <h3>Account Management</h3>
+                    <h4 style="color: #232323;" title="Quantity"> &nbsp; Per Month</h4>
+                    <h2 class="price-servise" title="Price">    &#8377 499</h2>
                     <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
+                    <a href="/Order/Account-Management/" title="Order">
+                        <button type="button"  class="paynow"><h1>Book Now</h1></button>
                     </a>
                     
                   </div>
 
-                   <div class="slide"><img src="d.jpg">
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
+                  <div class="slide">
+                      <img src="/contant/image/other/servise-mo/Account-Regestration.jpg" alt="Account regestration on ecommerce site" title="Account Regetration">
+                    <a href="/Order/Account-Regestration/">
+                        <button class="take-servise-hover-view-more" title="Order"> See details </button>
                     </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 2000</h2>
+                    <h3>New Account Registration</h3>
+                    <h4 style="color: #232323;" title="Quantity"> &nbsp; once</h4>
+                    <h2 class="price-servise" title="price"><span style="color: red;">FREE</span></h2>
                     <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
+                    <a href="/Order/Account-Regestration/" title="Order">
+                        <button type="button"  class="paynow"><h1>Book Now</h1></button>
                     </a>
                     
                     </div>
 
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg">
+                  <div class="slide">
+                      <img src="/contant/image/other/servise-mo/catalog.jpg" alt="Catalog" title="Catalog's">
 
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
+                    <a href="/Order/Catalog/">
+                        <button class="take-servise-hover-view-more" title="Order"> See details </button>
                     </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 3000</h2>
+                    <h3>Catalog</h3>
+                    <h4 style="color: #232323;" title="Quantity"> &nbsp; Per product</h4>
+                    <h2 class="price-servise" title="Price">    &#8377 14</h2>
                     <br>
-                    <button class="paynow"><h1> Book Now </h1></button>
+                    <a href="/Order/Catalog/" title="Order">
+                        <button type="button"  class="paynow"><h1>Book Now</h1></button>
+                    </a>
 
                     </div>
 
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg">
-                    <a href="/">
+
+                    <div class="slide">
+                        <img src="/contant/image/other/servise-mo/advertising-optimization.jpg" alt="Advertising Optimization" title="Advertising Optimization">
+                        <a href="/Order/Advertising-Optimization/" title="Order">
+                            <button class="take-servise-hover-view-more"> See details </button>
+                        </a>
+                        <h3>Advertising Optimization</h3>
+                        <h4 style="color: #232323;" title="Quantity"> &nbsp; Per Month</h4>
+                        <h2 class="price-servise" title="Price">    &#8377 1499</h2>
+                        <br>
+                        <a href="/Order/Advertising-Optimization/" title="Order">
+                            <button type="button"  class="paynow"><h1>Book Now</h1></button>
+                        </a>
+                        
+                    </div>
+
+
+                    <div class="slide">
+                        <img src="/contant/image/other/servise-mo/accounting.jpg" alt="Accounting" title="Accounting">
+
+                        <a href="/Order/Accounting/" title="Order">
+                            <button class="take-servise-hover-view-more"> See details </button>
+                        </a>
+                        <h3>Accounting</h3>
+                        <h4 style="color: #232323;" title="Quantity"> &nbsp; Per Month</h4>
+                        <h2 class="price-servise" title="Price">    &#8377 400</h2>
+                        <br>
+                        <a href="/Order/Accounting/" title="Order">
+                            <button type="button"  class="paynow"><h1>Book Now</h1></button>
+                        </a>
+    
+                        </div>
+
+                   
+
+                   <div class="slide">
+                       <img src="/contant/image/other/servise-mo/Photoshot.jpg" alt="Model Photo Shoot" title="Model Shoot">
+
+                    <a href="/Order/Photoshot/" title="Order">
                         <button class="take-servise-hover-view-more"> See details </button>
                     </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 4000</h2>
+                    <h3>PhotoShoot</h3>
+                    <h4 style="color: #232323;" title="Quantity"> &nbsp; Per product</h4>
+                    <h2 class="price-servise" title="Price">    &#8377 99</h2>
                     <br>
-                    <button class="paynow"><h1>
+                    <a href="/Order/Photoshot/" title="Order">
+                        <button type="button"  class="paynow"><h1>Book Now</h1></button>
+                    </a>
+
+                    </div>
+
+                   <div class="slide">
+                       <img src="/contant/image/other/servise-mo/image-editing.jpg" alt="Image Editing" title="Image Editing">
+            
+                    <a href="/Order/Image-Editing/" title="Order">
+                        <button class="take-servise-hover-view-more"> See details </button>
+                    </a>
+                    <h3>Image Editing</h3>
+                    <h4 style="color: #232323;" title="Quantity"> &nbsp; Per product</h4>
+                    <h2 class="price-servise" title="Price">    &#8377 12</h2>
+                    <br>
+                    <a href="/Order/Image-Editing/" title="Order">
+                        <button type="button"  class="paynow"><h1>Book Now</h1></button>
+                    </a>
+                     
+                    <!-- <button class="paynow"><h1>
                         <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IXq3UEms8DQDAs" async> </script> </form>
-                    </h1></button>
-                </div>
+                    </h1></button>  -->
 
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg">
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
+                   </div>
+
+                   <div class="slide">
+                       <img src="/contant/image/other/servise-mo/Website.jpg" alt="Web design & development" title="Web design & development" >
+                    <a href="/Order/Website-Design/">
+                        <button class="take-servise-hover-view-more" title="Order"> See details </button>
                     </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 5000</h2>
+                    <h3>Web Development</h3>
+                    <h4 style="color: #232323;" title="Quantity"> &nbsp; Per Website</h4>
+                    <h2 class="price-servise" title="Price">    &#8377 5894</h2>
                     <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
+                    <a href="/Order/Website-Design/">
+                        <button type="button"  class="paynow" title="Order"><h1>Book Now</h1></button>
                     </a>
                     
                 </div>
 
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg">
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
-                    </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 6000</h2>
-                    <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
-                    </a>
-                    
-                </div>
-
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg">
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
-                    </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 7000</h2>
-                    <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
-                    </a>
-                    
-                </div>
-
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg">
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
-                    </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 8000</h2>
-                    <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
-                    </a>
-                    
-                </div>
-
-                   <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg">
-                    <a href="/">
-                        <button class="take-servise-hover-view-more"> See details </button>
-                    </a>
-                    <h3>Product Descripti</h3>
-                    <h4 style="color: #232323;"> &nbsp; Per 10 product</h4>
-                    <h2 class="price-servise">    &#8377 9000</h2>
-                    <br>
-                    <a href="/">
-                        <button type="button"  class="paynow"><h1> Book Now </h1></button>
-                    </a>
-
-                </div>
+                   
 
                 </section>
                 
@@ -549,85 +472,6 @@ function plusSlides(n) {
         </section>
 
 
-<!--type explore servises-->
-
-
-        <section>
-
-            <div class="dis-fle-cent">
-                <div class="fix-width-80">
-                    <h2 style="color: rgb(0, 0, 0,0.85);">ECOMMEREC SELLER SERVICE</h2>
-                    <br>
-            
-                    
-                    <h3 style="color: rgb(0, 0, 0,0.75); line-height: 25px;">
-                        Our craft is producing thought-provoking, result-driven, visually impeccable photo & video content with the highest production values. We offer full pre and post-production services, including creative and storyboarding, filming, editing, subtitling (if necessary), and media formatting, distribution, and marketing.
-                    </h3>
-            
-                    <h3 style="color: rgb(0, 0, 0,0.75);">
-                        Our area of expertise spans many industries-tech, electronics, fashion, construction, pharma, education, and more. No matter your industry, we can cast our magic to create imagery that suits your brand the best.
-                    </h3>
-            
-                    <br><br>
-                    <h3 style="color: rgb(0, 0, 0,0.8);">ECOMMEREC Photography IMPORTENT ON AMAZON FILPKART</h3>
-                    
-                    <h3 style="color: rgb(0, 0, 0,0.75);">
-                        Whether you are looking to increase conversion rates, improve customer engagement, raise awareness, or quickly scale your content, a photographic approach can help.
-                    </h3>
-            
-                    <br><br>
-                    <h3 style="color: rgb(0, 0, 0,0.8);">ECOMMERCE PHOTOGRAPHY PRICING</h3>
-                    
-                    <h3 style="color: rgb(0, 0, 0,0.75);">
-                        We offer simple, innovative and affordable ecommerce product photography price in delhi. We did professional ecommerce photography services near me for big brands and online e-commerce websites including amazon, flipkart, myntra, jabong, paytm, ebay, etsy, snapdeal, ajio, tata cliq etc. We also enjoy working with independent firms, start-ups, individuals, small scale industries and companies to do best catalogue shoot in delhi. We take the most challenging projects and supply the top-notch still product photography from highly reflective products to big and large furniture.
-                    </h3>
-                    <br>
-                    <h3 style="color: rgb(0, 0, 0,0.75);">
-                        Our ecommerce photography pricing depend on type of product, product sizing, product quantity, shooting location and shooting time. This is our approx charges of single product. We will share you our best product photography charges after discuss on call, email or whatsapp about your product category, product qty and what type of photoshoot do you need. After discuss all about thing we will send you final product photography quotation on email.
-                    </h3>
-            
-                    <br><br>
-                    
-                </div>
-            
-                <div style="width: 96%; justify-content: center; text-align: center;">
-            
-                    <h3 style="color: rgb(0, 0, 0,0.9);">Approximate ecommerce photography pricing in delhi</h3>
-            
-                    <table id="table-pricing" class="bordr">
-                        <tr>
-                            <th class="bordr" style="font-weight: bold; font-style: oblique;">Product Photography</th>
-                            <th class="bordr" style="font-weight: bold; font-style: oblique;">Average Cost</th>
-                        </tr>
-                        <tr>
-                            <td class="bordr">Apparel Photography</td>
-                            <td class="bordr">Rs. 100 to Rs. 500</td>
-                        </tr>
-                        <tr>
-                            <td class="bordr">Footwear Photography</td>
-                            <td class="bordr">Rs. 120 to Rs. 350</td>
-                        </tr>
-                        <tr>
-                            <td class="bordr">Ghost Mannequin Shoot</td>
-                            <td class="bordr">Rs. 150 to Rs. 450</td>
-                        </tr>
-                        <tr>
-                            <td class="bordr">Jewellery Photography</td>
-                            <td class="bordr">Rs. 130 to Rs. 480</td>
-                        </tr>
-                        <tr>
-                            <td class="bordr">Hanbag Photography</td>
-                            <td class="bordr">Rs. 100 to Rs. 400</td>
-                        </tr>
-                        
-                        
-                    </table>
-            
-                </div>
-            
-            </div>
-            
-        </section>
 
 
 
@@ -646,14 +490,14 @@ function plusSlides(n) {
 
                     <div class="call-now-cntt-with-flex">
                         <div class="call-now-main-show-cntt" data-aos="flip-left" data-aos-duration="500">
-                            <div call-now-main-show-image>
-                                <img src="/b.jpg" alt="" class="image-hoverbox-size-adjust">
+                            <div class="call-now-main-show-image">
+                                <img src="/contant/image/home/best&call/Creditable-Integrity-ecommerce-store.png" alt="Best ecommerce amazon flipkart account management & catalog services in delhi ncr" class="image-hoverbox-size-adjust">
 
                             </div>
 
-                            <div class="call-now-main-show-text">
+                            <div class="call-now-main-show-text" title="">
                                 <h2 style="color: #999900;">Creditable Integrity</h2>
-                                <p>akdjkajfkasd kaj jsak  ksaf fa j</p><br><br>
+                                <p></p><br><br>
 
                             </div>
 
@@ -662,14 +506,14 @@ function plusSlides(n) {
 
 
                         <div class="call-now-main-show-cntt" data-aos="flip-left" data-aos-duration="500" data-aos-delay="150">
-                            <div call-now-main-show-image>
-                                <img src="/b.jpg" alt="" class="image-hoverbox-size-adjust">
+                            <div class="call-now-main-show-image">
+                                <img src="/contant/image/home/best&call/effective-team-work.png" alt="" class="image-hoverbox-size-adjust">
 
                             </div>
 
-                            <div class="call-now-main-show-text">
-                                <h2 style="color: #999900;">Creditable Integrity</h2>
-                                <p>akdjkajfkasd kaj jsak  ksaf fa j</p><br><br>
+                            <div class="call-now-main-show-text" title="team work">
+                                <h2 style="color: #999900;">Effective Team Work</h2>
+                                <p></p><br><br>
 
                             </div>
 
@@ -678,14 +522,14 @@ function plusSlides(n) {
 
 
                         <div class="call-now-main-show-cntt" data-aos="flip-left" data-aos-duration="500" data-aos-delay="300">
-                            <div call-now-main-show-image>
-                                <img src="/b.jpg" alt="" class="image-hoverbox-size-adjust">
+                            <div class="call-now-main-show-image">
+                                <img src="/contant/image/home/best&call/quality-assurance.png" alt="" class="image-hoverbox-size-adjust">
 
                             </div>
 
-                            <div class="call-now-main-show-text">
-                                <h2 style="color: #999900;">Creditable Integrity</h2>
-                                <p>akdjkajfkasd kaj jsak  ksaf fa j</p><br>
+                            <div class="call-now-main-show-text" title="Quality work">
+                                <h2 style="color: #999900;">Quality Assurance</h2>
+                                <p></p><br>
 
                             </div>
 
@@ -696,7 +540,7 @@ function plusSlides(n) {
                     
 
                     <div class="call-now-cntt-with-flex">
-                        <a href="tel: +916350029208">
+                        <a href="tel: +916350029208" title="Talk to our expert">
                             <button id="call-now-main-cont" data-aos="flip-left" data-aos-duration="500"><h2>Call Now >></h2></button>
                         </a>
 
@@ -719,12 +563,10 @@ function plusSlides(n) {
 
 
         <div>
-            <div style="background-color: #bfbf7f;">
-                <div class="section2-center-class">
-                    <button style="background-color: #4c004c; color: white; padding: 15px; border-style: double;"> <h3> we do </h3></button><br><br>
-                    <h2>hyy here we are providsjkajfkajkdf</h2><br>
-                    <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
-        
+            <div style="background-color: #f9fcf9">
+                <div class="section2-center-class" title="What we do">
+                   <br><br>
+                    <h2>Our Best  and Luxury Services Are :</h2><br>
                 </div>
     
                 <div class="explor-myself">
@@ -744,15 +586,15 @@ function plusSlides(n) {
                     <div class="text-join-btns">
         
                         <div class="text-join-btns-dono">
-                            <a href="/">
+                            <a href="/contact-us/#join-form" title="Registration form" target="_blank">
                                 <button class="join-conta-anima">JOin Now</button>
                             </a>
                         </div>
     
                         <div class="text-join-btns-dono">
     
-                            <a href="/">
-                                <button class="join-conta-anima"> Contat Us </button>
+                            <a href="/contact-us/#send-query" title="send query" target="_blank">
+                                <button class="join-conta-anima">Contat Us</button>
                             </a>
                         </div>
         
@@ -762,7 +604,7 @@ function plusSlides(n) {
 
                 </div>
             </div>
-
+            <script src="/contant/js/typed-text-animation.js"></script>
             <script>
                 var typed6 = new Typed('#servise-type1', {
                 strings: ['Account managing ✓<br>Product listing ✓<br>content writing ✓<br>E-commerece shots ✓<br>Outdoor shots ✓'],
@@ -775,7 +617,7 @@ function plusSlides(n) {
             </script>
             <script>
                 var typed6 = new Typed('#servise-type2', {
-                strings: ['Website design ✓<br>Website devolpment ✓<br>Provide <strong>Intership</strong> for students ✓<br>Free <strong>course</strong> for students ✓<br> etc... '],
+                strings: ['Website design ✓<br>Website development ✓<br>New Account<strong>Registration</strong> ✓<br><strong>Ads</strong> Optimization ✓<br> etc... '],
                 typeSpeed: 40,
                 backSpeed: 15,
                 startDelay: 9500,
@@ -783,6 +625,7 @@ function plusSlides(n) {
                 });
     
             </script>
+            
 
 
         </div>
@@ -798,64 +641,64 @@ function plusSlides(n) {
     <section>
 
         
-        <div class="section2-center-class">
+        <div class="section2-center-class" title="">
             <button style="background-color: #ff1e56; color: white; padding: 15px;"> <h3> Why choose us ! </h3></button><br><br>
-            <h2>hyy here we are providsjkajfkajkdf</h2>
+            <h2>We are the right term for your business.</h2>
             
             <br>
-            <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
+            <p style="color: #4c4c4c;">Our goal is to give you the best service possible as a team of professionals. We focus on the long-term success of your business. We work with the latest tools and technologies to achieve this.</p>
 
-        </div>
+        </div><br><br>
 
 
 
 
         <div class="section-2-image-inhover">
-            <div class="image-hoverbox" data-aos="flip-right" data-aos-duration="500">
-                <div class="why-choose-img">
-                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
-                    <a href="/" style="text-decoration: none; align-items: center;">
+            <div class="image-hoverbox" data-aos="flip-right" data-aos-duration="500" title="24 X 7 Support">
+                <div class="why-choose-img" >
+                    <img src="/contant/image/home/best&call/best-servise-and-coustumer-supports.png" alt="Best Services and coustomer support" class="image-hoverbox-size-adjust">
+                   <!--<a href="/" style="text-decoration: none; align-items: center;">
                         <button class="sec-2-hover-class sec2textup">View Blogs</button>
-                    </a>                    
-                </div>
+                    </a>-->                    
+                </div><br>
                 
                 <div class="why-choose-text">
-                    <h2 style="color: #191919;">Well maintained</h2>
-                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
+                    <h2 style="color: #191919;">Best Servise and Custumer Support.</h2><br>
+                    You will get best service and customer support. With our professional and dedicated team that is always there to help you out with any issues that you may have, we are sure you will find pleasure in working with us.
 
                 </div>
                     
                 
             </div>
 
-            <div class="image-hoverbox" data-aos="flip-left" data-aos-duration="500" data-aos-delay="150">
+            <div class="image-hoverbox" data-aos="flip-left" data-aos-duration="500" data-aos-delay="150" title="Latest work">
                 <div class="why-choose-img">
-                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
-                    <a href="/" style="text-decoration: none; align-items: center;">
+                    <img src="/contant/image/home/best&call/latest-investigation.png" alt="amazon flipkart product listing services" class="image-hoverbox-size-adjust">
+                   <!--<a href="/" style="text-decoration: none; align-items: center;">
                         <button class="sec-2-hover-class sec2textup">View Blogs</button>
-                    </a>                    
-                </div>
+                    </a>    -->                
+                </div><br>
                 
                 <div class="why-choose-text">
-                    <h2 style="color: #191919;">Well maintained</h2>
-                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
+                    <h2 style="color: #191919;">Latest Inverstigation</h2><br>
+                    We have the latest investigation on how to use the internet to get leads and then convert them into customers. So we are just going to do more advanced things than everybody else.
 
                 </div>
                     
                 
             </div>
 
-            <div class="image-hoverbox" data-aos="fade-down" data-aos-duration="500" data-aos-delay="300">
+            <div class="image-hoverbox" data-aos="fade-down" data-aos-duration="500" data-aos-delay="300" title="Chepest">
                 <div class="why-choose-img">
-                    <img src="/c.jpg" alt="" class="image-hoverbox-size-adjust">
-                    <a href="/" style="text-decoration: none; align-items: center;">
+                    <img src="/contant/image/home/best&call/we-are-affordable.png" alt="best ecommerce services provuder" class="image-hoverbox-size-adjust">
+                 <!--<a href="/" style="text-decoration: none; align-items: center;">
                         <button class="sec-2-hover-class sec2textup">View Blogs</button>
-                    </a>                    
-                </div>
+                    </a> -->                   
+                </div><br>
                 
                 <div class="why-choose-text">
-                    <h2 style="color: #191919;">Well maintained</h2>
-                    hello Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites that allow
+                    <h2 style="color: #191919;">Cheapest.</h2><br>
+                    Our prices are the lowest. We provide our customers with the best services. Our motto is: "We do not spare our lives, to save your money."
 
                 </div>
                     
@@ -865,7 +708,7 @@ function plusSlides(n) {
             
 
         </div>
-        <a href="/" >
+        <a href="/listing/" title="upload your product">
             <button class="why-choose-view-more">View More</button>
         </a>
     </section>
@@ -883,23 +726,27 @@ function plusSlides(n) {
 
 
 <!--heere our certifacte list-->
-            <section  id="certificate-amazon">
+            <section  id="certificate-amazon" title="Certified by amazon">
 
                 <div class="amazon-dono-certifacte">
                     <button style="background-color: #ff1e56; color: white; padding: 15px; align-items: center;"> <h3> Verified </h3></button><br><br>
-                    <h2> We are certified by <strong>AMAZON</strong></h2><br>
+                    <h2>Certified By <strong>Amazon</strong></h2><br>
                     <p style="color: #4c4c4c;">
-                        Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites thaBusiness-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites thaBusiness-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha
-                    
-                        <a href="#" id="certificate-see-more-button">know More...</a>
+                        Amazon Certified Training and Consultant
+                        <br><br>
+                        Hurray! You’re already on the business with Amazon. It complies with all regulations, but still there are some issues that you need help in. With our team you can be on the safe side of Market Place. Because we can Help to solve all kind of situations, if you want your account be the best account on market place, don’t hesitate to contact us and we will be always ready to do jobs for you.
+                        <br>
+                        We are Ready!
+                        <br><br>
+                        <a href="#back-conta" id="certificate-see-more-button">Contact us for a Free Consultation:</a>
                     </p>
 
                     
                 </div>
 
-                <div class="amazon-dono-certifacte">
+                <div class="amazon-dono-certifacte" title="Amazon Certificate">
 
-                    <img class="verifed-amazone-certificate" src="/contant/image/home/amazon-certifacate.png" alt="certificate of Trusteepartner.in ,Verified by AMAZON">
+                    <img class="verifed-amazone-certificate" src="/contant/image/home/amazon-certifacate.png" alt="certificate of trusteepartner.tech ,Verified by AMAZON">
             
                 </div>
 
@@ -912,27 +759,29 @@ function plusSlides(n) {
 
 <!--our partner are here-->
 
-            <section>
+            <section title="Our Network">
 
                 <div class="section2-center-class">
                     <button class="our-servise-style-text"> <h3> Our Partner's </h3></button><br><br>
-                    <h2 class="sub-hed-after-btn-type">hyy here we are providsjkajfkajkdf</h2><br>
-                    <p style="color: #4c4c4c;">Business-to-business (B2B) e-commerce refers to the electronic exchange of products, services or information between businesses rather than between businesses and consumers. Examples include online directories and product and supply exchange websites tha</p>
+                    <h2 class="sub-hed-after-btn-type">Best partners, great performance, and high-quality assurance.</h2><br>
+                    <p style="color: #4c4c4c;"></p>
         
                 </div><br><br><br>
     
-                <div class="container-slick-partner" style="cursor: grab;">
+                <div class="container-slick-partner" style="cursor: grab; display: -webkit-flex; justify-content: center;">
           
-                    <section class="our-partner-slid slider" style="cursor: grab;">
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png" ></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
-                       <div class="slide" style="cursor: grab;"><img src="/footer.png"></div>
+                    <section class="our-partner-slid slider" style="cursor: grab; width: 85%;">
+                       <div class="slide" title="Amazon" style="cursor: grab;"><img src="/contant/image/Our-Partner/amazon.png" ></div>
+                       <div class="slide" title="Flipkart" style="cursor: grab;"><img src="/contant/image/Our-Partner/Flipkart.png"></div>
+                       <div class="slide" title="Myntra" style="cursor: grab;"><img src="/contant/image/Our-Partner/myntra.png"></div>
+                       <div class="slide" title="Nykaa" style="cursor: grab;"><img src="/contant/image/Our-Partner/NYKAA.png"></div>
+                       <div class="slide" title="Ebay" style="cursor: grab;"><img src="/contant/image/Our-Partner/ebay.png"></div>
+                       <div class="slide" title="Paytmmall" style="cursor: grab;"><img src="/contant/image/Our-Partner/paytmmall.png"></div>
+                       <div class="slide" title="Shopify" style="cursor: grab;"><img src="/contant/image/Our-Partner/shopify.png"></div>
+                       <div class="slide" title="Snapdeal" style="cursor: grab;"><img src="/contant/image/Our-Partner/snapdeal.png"></div>
+                       <div class="slide" title="Woocommerce" style="cursor: grab;"><img src="/contant/image/Our-Partner/woo.png"></div>
+                       <div class="slide" title="Alibaba" style="cursor: grab;"><img src="/contant/image/Our-Partner/Alibaba.png"></div>
+                       <div class="slide" title="Indaimart" style="cursor: grab;"><img src="/contant/image/Our-Partner/indiamart.png"></div>
                     </section>
                     
                 </div>
@@ -961,45 +810,47 @@ function plusSlides(n) {
 
 <!--contact us form-->    
 
-<section id="back-conta">
+<section id="contact-us" title="Drop your query">
+    <section id="back-conta">
 
-    <div class="contact-us-full-back">
-        <img src="/contant/image/home/contant-us.jpg" alt="Contact-Us" id="contact-imag-height-width">
-    </div>
-
-    <div class="contact-us-full-back">
-        <div id="contact-us-join">
-            <h1 style="font-weight: bolder;"><u> Get In Touch With Us </u></h1>
-            <br>
-            <h3 style="opacity: 0.8;">Questions, comments, concerns or suggestions? We love hearing from our community, so feel free to reach out anytime.</h3>
-            <h3 style="opacity: 0.8;">You can send me a mail also on <a href="mailto: trusteepartner@gmail.com" style="text-decoration: none;color: black; opacity: 0.8;">contact@trusteepartner.in</a></h3>
-            <br>
-            <form onsubmit="alert('Your form is now Submitted');" action="index.php" method="post" id="get-in-tuch">
-
-                <label for="fname"><h3>Name* :</h3></label>
-                <input type="text" id="fname" minlength="5" maxlength="25" name="fname" placeholder="Enter your name" class="textbox-class" >
-
-                <label for="fmobile"><h3>Mobile NO.* :</h3></label>
-                <input type="tel" minlength="10" maxlength="12" id="fmobile" name="fmobile" placeholder="Enter your mobile number withour country code" class="textbox-class">
-
-                <label for="fsubject"><h3>Subject* :</h3></label>
-                <input type="text" id="fsubject" maxlength="30" name="fsubject" placeholder="Type the subject" class="textbox-class">
-
-                <label for="fmessage"><h3>Message :</h3></label>
-                <textarea name="fmessage" id="fmessage" cols="" type="text"  maxlength="400" placeholder="Type your massage here ..." class="textbox-class-message" rows="5" wrap="hard"></textarea>
-                <br><br>
-                <input type="submit" value="submit" id="cont-info-submit">
-            </form>
+        <div class="contact-us-full-back" title="Contant us">
+            <img src="/contant/image/home/contant-us.png" alt="Contact-Us" id="contact-imag-height-width">
         </div>
-
-    </div>
-
-
+    
+        <div class="contact-us-full-back">
+            <div id="contact-us-join">
+                <h1 style="font-weight: bolder;"><u> Get In Touch With Us </u></h1>
+                <br>
+                <h3 style="opacity: 0.8;">Questions, comments, concerns or suggestions? We love hearing from our community, so feel free to reach out anytime.</h3>
+                <h3 style="opacity: 0.8;">You can send me a mail also on <a href="mailto: trusteepartner@gmail.com" style="text-decoration: none;color: black; opacity: 0.8;" title="Email">contact@trusteepartner.tech</a></h3>
+                <br>
+                <form  method="POST" id="get-in-tuch">
+    
+                    <label for="fname" title="Name"><h3>Name* :</h3></label>
+                    <input type="text" id="fname" minlength="5" maxlength="25" name="fname" title="Enter your name" placeholder="Enter your name" class="textbox-class" >
+    
+                    <label for="fmobile" title="Mobile NO."><h3>Mobile NO.* :</h3></label>
+                    <input type="tel" minlength="10" maxlength="12" id="fmobile" name="fmobile" title="Enter your mobile no." placeholder="Enter your mobile number withour country code" class="textbox-class">
+    
+                    <label for="fsubject" title="Subject"><h3>Subject* :</h3></label>
+                    <input type="text" id="fsubject" maxlength="30" name="fsubject" title="Enter your subject" placeholder="Type the subject" class="textbox-class">
+    
+                    <label for="fmessage" title="Message"><h3>Message :</h3></label>
+                    <textarea name="fmessage" id="fmessage" title="Enter your message" cols="" type="text"  maxlength="400" placeholder="Type your massage here ..." class="textbox-class-message" rows="5" wrap="hard"></textarea>
+                    <br><br>
+                    <input type="submit" value="submit" title="Send your Query" name="cont-info-submit" id="cont-info-submit">
+                </form>
+            </div>
+    
+        </div>
+    
+    
+    </section>
 </section>
 
 <!--Client Review-->
 
-    <section style="background-color: #cce5cc;">
+    <section style="background-color: #cce5cc;" title="Review's">
 
         <div class="always-center-class">
             <button style="background-color: #4ca64c; padding: 8px; font-weight: bold; border: none; border-radius: 5%;">
@@ -1013,20 +864,20 @@ function plusSlides(n) {
         <div class="container-slick-partner" style="cursor: grab;">
   
             <section class="our-Client slider" style="cursor: grab;">
-                <div class="slide" style="cursor: grab;">
+                <div class="slide" style="cursor: grab;" title="Review by Modassir muztaba, Ecommerce seller">
 
                     <div class="box-client-reviw">
                         
 
                         <div class="main-review-thought">
                             <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seaml10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Cusess Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                            I have been using their services for the past 6 months, and it has been a very positive experience. They are quick to respond to questions, very knowledgeable about the e-commerce industry and trustworthy in every way. I highly recommend them to anyone looking for reliable account manager solutions.
                         </div>
 
                         <br><br>
 
-                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
-                        <span class="star-nonrate-white">&#9734;</span>
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white"></span>
                         </div>
                         <br>
             
@@ -1034,22 +885,22 @@ function plusSlides(n) {
                     <br><br>
 
                     <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        <h2 class="posted-by-name">Modassir muztaba</h2>
                         
-                        <p class="posted-company-name">Amazone A1 Seller</p>
+                        <p class="posted-company-name">Ecommerce Seller</p>
                     </div>
                     <br><br>
 
                 </div>
 
-               <div class="slide" style="cursor: grab;">
+               <div class="slide" style="cursor: grab;" title="Review by Sachin kumar, Amazon seller">
                     
                     <div class="box-client-reviw">
                         
 
                         <div class="main-review-thought">
                             <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                            They are really great! They have helped us with a lot of our Amazon issues and questions, as well as some legal issues. They are very knowledgeable and helpful!
                         </div>
 
                         <br><br>
@@ -1065,21 +916,21 @@ function plusSlides(n) {
                     <div class="by-client-post-review">
                         <h2 class="posted-by-name">Sachin Kumar</h2>
                         
-                        <p class="posted-company-name">Amazone A1 Seller</p>
+                        <p class="posted-company-name">Amazone Seller</p>
                     </div>
                     <br><br>
 
                 </div>
                 
 
-               <div class="slide" style="cursor: grab;">
+               <div class="slide" style="cursor: grab;" title="Review by Sampura mishra, Ecommerce seller">
                     
                     <div class="box-client-reviw">
                         
 
                         <div class="main-review-thought">
                             <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                            I am a new comer in this ecommerce industry. But Trustee Partner team consulted me well & helped me start my venture with their guidance.
                         </div>
 
                         <br><br>
@@ -1093,22 +944,80 @@ function plusSlides(n) {
                     <br><br>
 
                     <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        <h2 class="posted-by-name">Sampura mishra</h2>
                         
-                        <p class="posted-company-name">Amazone A1 Seller</p>
+                        <p class="posted-company-name">Amazone & Flipkart Seller</p>
                     </div>
                     <br><br>
 
                 </div>
 
-               <div class="slide" style="cursor: grab;">
+                <div class="slide" style="cursor: grab;" title="Review by Tanishka jaiswal, Director of Om Hospital">
                     
                     <div class="box-client-reviw">
                         
 
                         <div class="main-review-thought">
                             <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magent10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Cuso Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                            When it comes to business, it’s all about reputation. If your company is associated with other companies that have a good reputation, then your business will also have a good reputation. When I was first looking for a website design company, I was worried that I wouldn’t be able to find a trustworthy one. But then I came across Trustee Partner. They are an impressive group of web developers that know exactly what they are doing when you give them the time and freedom to do their job. Now my company has become increasingly popular thanks to the amazing services provided by Trustee Partner!
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white"></span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Tanishka jaiswal</h2>
+                        
+                        <p class="posted-company-name">Director of Om Hospital</p>
+                    </div>
+                    <br><br>
+
+                </div>
+
+               <div class="slide" style="cursor: grab;" title="Review by Namarata sain, Amazon seller">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            I have been working with trustee partner for over 1.5 + years now and they are amazing. They understand the business and always handle their tasks efficiently.
+                        </div>
+
+                        <br><br>
+
+                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;&#9733;
+                        <span class="star-nonrate-white"></span>
+                        </div>
+                        <br>
+            
+                    </div>
+                    <br><br>
+
+                    <div class="by-client-post-review">
+                        <h2 class="posted-by-name">Namarata sain</h2>
+                        
+                        <p class="posted-company-name">Amazon Seller</p>
+                    </div>
+                    <br><br>
+
+                </div>
+
+               <div class="slide" style="cursor: grab;" title="Review by Jatin manchanda, Owner of PCH Indai">
+                    
+                    <div class="box-client-reviw">
+                        
+
+                        <div class="main-review-thought">
+                            <br>
+                            As a law firm, we need to ensure that we are always up-to-date with the latest developments in technology. When it comes to finding the right website for the business, we have found that the Trustee Partner is the one who is doing the best job. They always get back to us quickly and provide all the information we need--and they don't have to be expensive either!
                         </div>
 
                         <br><br>
@@ -1122,22 +1031,22 @@ function plusSlides(n) {
                     <br><br>
 
                     <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        <h2 class="posted-by-name">Jatin manchanda</h2>
                         
-                        <p class="posted-company-name">Amazone A1 Seller</p>
+                        <p class="posted-company-name">Owner of PCH India</p>
                     </div>
                     <br><br>
 
                 </div>
 
-               <div class="slide" style="cursor: grab;">
+               <div class="slide" style="cursor: grab;" title="Review by Samir ahmad, Myntra seller">
                     
                     <div class="box-client-reviw">
                         
 
                         <div class="main-review-thought">
                             <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
+                            Trustee Partner was very professional and friendly to work with. They took the time to understand our business goals and tailored their services to fit our needs. We are very happy with the results from Trustee Partner.
                         </div>
 
                         <br><br>
@@ -1151,129 +1060,15 @@ function plusSlides(n) {
                     <br><br>
 
                     <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
+                        <h2 class="posted-by-name">Samir ahmad</h2>
                         
-                        <p class="posted-company-name">Amazone A1 Seller</p>
+                        <p class="posted-company-name">Myntra seller</p>
                     </div>
                     <br><br>
 
                 </div>
 
-               <div class="slide" style="cursor: grab;">
-                    
-                    <div class="box-client-reviw">
-                        
-
-                        <div class="main-review-thought">
-                            <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting.10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Cus Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
-                        </div>
-
-                        <br><br>
-
-                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
-                        <span class="star-nonrate-white">&#9734;</span>
-                        </div>
-                        <br>
-            
-                    </div>
-                    <br><br>
-
-                    <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
-                        
-                        <p class="posted-company-name">Amazone A1 Seller</p>
-                    </div>
-                    <br><br>
-
-                </div>
-
-               <div class="slide" style="cursor: grab;">
-                    
-                    <div class="box-client-reviw">
-                        
-
-                        <div class="main-review-thought">
-                            <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
-                        </div>
-
-                        <br><br>
-
-                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
-                        <span class="star-nonrate-white">&#9734;</span>
-                        </div>
-                        <br>
-            
-                    </div>
-                    <br><br>
-
-                    <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
-                        
-                        <p class="posted-company-name">Amazone A1 Seller</p>
-                    </div>
-                    <br><br>
-
-                </div>
-
-               <div class="slide" style="cursor: grab;">
-                    
-                    <div class="box-client-reviw">
-                        
-
-                        <div class="main-review-thought">
-                            <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
-                        </div>
-
-                        <br><br>
-
-                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
-                        <span class="star-nonrate-white">&#9734;</span>
-                        </div>
-                        <br>
-            
-                    </div>
-                    <br><br>
-
-                    <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
-                        
-                        <p class="posted-company-name">Amazone A1 Seller</p>
-                    </div>
-                    <br><br>
-
-                </div>
-
-               <div class="slide" style="cursor: grab;">
-                    
-                    <div class="box-client-reviw">
-                        
-
-                        <div class="main-review-thought">
-                            <br>
-                            10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, Customer Satisfaction, 10+ Year Exp, Customer Satisfaction, Provide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience. 10+ Year Exp, CusProvide Seamless Integration, Get a Quote. Ecommerce Solution. Magento Support. Free Site Assessment. Magento Hosting. Get a Free Quote. In-House Front-End Expert. 8+ Year Experience.
-                        </div>
-
-                        <br><br>
-
-                        <div class="star-rate-yellow">&#9733;&#9733;&#9733;&#9733;
-                        <span class="star-nonrate-white">&#9734;</span>
-                        </div>
-                        <br>
-            
-                    </div>
-                    <br><br>
-
-                    <div class="by-client-post-review">
-                        <h2 class="posted-by-name">Sachin Kumar</h2>
-                        
-                        <p class="posted-company-name">Amazone A1 Seller</p>
-                    </div>
-                    <br><br>
-
-                </div>
+               
 
             </section>
             
@@ -1282,6 +1077,20 @@ function plusSlides(n) {
 
     </section>
 
+
+<!--discuss praticular services-->
+
+
+<div class="full-top-back" title="Talk to our expert">
+    <div class="cntt-and-btn">
+        <h2>Want to discuss a particular service?</h2>
+    </div>
+    <div class="cntt-and-btn">
+        <a href="tel:+9163500292008">
+            <button class="btn-first-contact">TALK TO US</button>
+        </a>
+    </div>
+</div>
 
 
 
@@ -1306,7 +1115,11 @@ function plusSlides(n) {
     <div class="thought">
         <div class="maintought">
             <div class="main-thou-text-here">
-                hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours hyy what about yours
+                The future belongs to those who believe in the beauty of their dreams.
+
+                <div class="name-flot">
+                    ~ Eleanor Roosevelt
+                </div>
             </div> 
         </div>
     </div>
@@ -1317,7 +1130,6 @@ function plusSlides(n) {
 
 
 </section>
-
 
 
 
@@ -1346,7 +1158,7 @@ function plusSlides(n) {
                 <span class="first_class">
                     <ul>
                         <li class="img_class">
-                            <a href="/">
+                            <a href="/" title="Trustee Partner">
                                 <img src="/contant/image/one_use/footer_logo.png" alt="Trustee Partner" class="exp_img">
                             </a>
                         </li>
@@ -1358,11 +1170,11 @@ function plusSlides(n) {
                     </ul>
                 </span>
     
-                <span class="second_class">
+                <span class="second_class" title="Quick Link">
                     <span class="name_quick">
                        <ul>
                            <li>
-                            <h2>QUICK LINK
+                            <h2> QUICK LINK
                             <span class="arrow"></span></h2>
                            </li>
                        </ul>
@@ -1372,33 +1184,33 @@ function plusSlides(n) {
     
                         <div class="n_q_links">
                             <ul>
-                                <ul>
+                                <ul title="Product Listing">
                                     <li>
-                                        <a href="listing.php" class="quick_nav"><b> Product lisitng</b></a>
+                                        <a href="/listing/" class="quick_nav"><b>Product lisitng</b></a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Content  Writing</a>
+                                        &#9900 <a href="/listing/#seller-services" class="quick_nav_link" title="Seller Services">Seller Services</a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Advertisment</a>
+                                        &#9900 <a href="/listing/#Advertisment" class="quick_nav_link" title="Manage Advertisements">Ads Optimization</a>
                                     </li><br>
                                 </ul>
-                                <ul>
+                                <ul title="Photoshoot">
                                     <li>
-                                        <a href="photography.php" class="quick_nav"><b>Photography</b></a>
+                                        <a href="photography.php" class="quick_nav"><b>Photoshoot</b></a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">E-Commerece Shoot</a>
+                                        &#9900 <a href="/photoshoot/#gallery" title="Gallery" class="quick_nav_link">Gallery</a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Electronic Shoot</a>
+                                        &#9900 <a href="/photoshoot/#editing" title="Editing" class="quick_nav_link">Editing & Proccing</a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Clothing Shoot</a>
+                                        &#9900 <a href="/photoshoot/#ecommerce-shoot" title="E-commerce Photography" class="quick_nav_link">E-Commerce Shoot</a>
                                     </li>
                                     <br>
                                     <li>
-                                        <a href="/Privacy-policy.html" class="quick_nav"><b>Privacy Policy</b></a>
+                                        <a href="/privacy-policy/" target="_blank" title="Our Policy" class="quick_nav"><b>Privacy Policy</b></a>
                                     </li>
                                 </ul>
                             </ul>
@@ -1406,30 +1218,32 @@ function plusSlides(n) {
     
                         <div class="n_q_links">
                             <ul>
-                                <ul>
+                                <ul title="Web Design & Development">
                                     <li>
-                                        <a href="webdesign.php" class="quick_nav"><b> Website  Desgin</b></a>
+                                        <a href="/web-design/"  class="quick_nav"><b> Website  Desgin</b></a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Business Website</a>
+                                        &#9900 <a href="/web-design/corpr-web" title="Business" class="quick_nav_link">Business Website</a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Education Website</a>
+                                        &#9900 <a href="/web-design/#edu-web" title="Educatoin" class="quick_nav_link">Education Website</a>
                                     </li><br>
                                 </ul>
-                                <ul>
+                                <ul title="Student Program">
                                     <li>
-                                        <a href="program.php" class="quick_nav"><b>Program</b></a>
+                                        <a href="/student-program/" class="quick_nav"><b>Program</b></a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Interships</a>
+                                        &#9900 <a href="/student-program/#Interships" title="Interships" class="quick_nav_link">Interships</a>
                                     </li>
                                     <li>
-                                        &#9900 <a href="#" class="quick_nav_link">Jobs</a>
+                                        &#9900 <a href="/student-program/#Jobs" title="Jobs" class="quick_nav_link">Jobs</a>
                                     </li><br>
-                                    <li>&#160 &#160<a href="regestrion_form" class="quick_nav_link"><b> Join Us</b></a></li>
+                                    <li title="Registration Form">
+                                        <a href="/contact-us/#join-form" target="_blank" class="quick_nav_link"><b> Join Us</b></a>
+                                    </li>
                                     <li>
-                                        <a href="/terms-and-conditon.html" class="quick_nav"><b>Terms & Conditions</b></a>
+                                        <a href="/terms-&-conditon/" target="_blank" title="T & C" class="quick_nav"><b>Terms & Conditions</b></a>
                                     </li>
                                 </ul>
     
@@ -1440,50 +1254,50 @@ function plusSlides(n) {
                 </span>
             </span>
 
-            <span class="third_class">
+            <span class="third_class" title="Contact us">
                 
                 <span class="name_quick">
                     <ul>
                         <li>
-                           <h2>CONTANT US!
+                            <h2> CONTACT US!
                             <span class="arrow"></span></h2>
                         </li>
                     </ul>
                 </span>
                 <div class="contact_sec">
                     
-                    <ul>
+                    <ul title="Address">
                         <li>
-                            <a class="con_size" href="https://goo.gl/maps/tBg7mekrpx9gEHZk6"><span class="biggg">&#10146</span> &#160 &#160 Benito Juarez Marg, Block D, Anand Niketan, New Delhi, 110021</a>
+                            <a class="con_size" href="https://goo.gl/maps/tBg7mekrpx9gEHZk6" target="_blank"><span class="biggg">&#10146</span> &#160 &#160 Benito Juarez Marg, Block D, Anand Niketan, New Delhi, 110021</a>
                         </li>
-                        <li>
+                        <li title="Mobile No.">
                             <a class="con_size" href="tel: +916350029208"><span class="biggg">&#9990</span> &#160 +916350029208</a>
                         </li>
-                        <li>
-                            <a class="con_size" href="mailto: trusteepartner@gmail.com"><span class="biggg">&#9993</span> &#160 contact@trusteepartner.in</a>
+                        <li title="E-Mail">
+                            <a class="con_size" href="mailto: trusteepartner@gmail.com"><span class="biggg">&#9993</span> &#160 contact@trusteepartner.tech</a>
                         </li><br>
-                        <li>
-                            <span class="footer_socal">
-                                <a  href="/"><img src="/contant/image/socail/mail.png" width="30px" height="30px" alt=""></a>
-                                <a class="img-top" href="/"><img src="/contant/image/socail/mailba.png" width="37px" height="37px" alt=""></a>
+                        <li title="Social Channels">
+                            <span class="footer_socal" title="E-Mail">
+                                <a  href="mailto:contact@trusteepartner.tech" target="_blank"><img src="/contant/image/socail/mail.png" width="30px" height="30px" alt="e-commerce account Manage"></a>
+                                <a class="img-top" href="mailto:contact@trusteepartner.tech" target="_blank"><img src="/contant/image/socail/mailba.png" width="37px" height="37px" alt="catalogs"></a>
                             </span>&#160
-                            <span class="footer_socal">
-                                <a  href="/"><img src="/contant/image/socail/fb.png" width="30px" height="30px" alt=""></a>
-                                <a class="img-top" href="/"><img src="/contant/image/socail/fbba.png" width="37px" height="37px" alt=""></a>
+                            <span class="footer_socal" title="Facebook">
+                                <a  href="https://www.facebook.com/trusteepartner/" target="_blank"><img src="/contant/image/socail/fb.png" width="30px" height="30px" alt="Product Listing"></a>
+                                <a class="img-top" href="https://www.facebook.com/trusteepartner/" target="_blank"><img src="/contant/image/socail/fbba.png" width="37px" height="37px" alt="amazon flipkart services"></a>
                             </span>
                             &#160
-                            <span class="footer_socal">
-                                <a  href="/"><img src="/contant/image/socail/link.png" width="30px" height="30px" alt=""></a>
-                                <a class="img-top" href="/"><img src="/contant/image/socail/linkba.png" width="37px" height="37px" alt=""></a>
+                            <span class="footer_socal" title="Linkedln">
+                                <a  href="https://www.linkedin.com/in/trusteepartner/" target="_blank"><img src="/contant/image/socail/link.png" width="30px" height="30px" alt="Best Ecommerce services in delhi"></a>
+                                <a class="img-top" href="https://www.linkedin.com/in/trusteepartner/" target="_blank"><img src="/contant/image/socail/linkba.png" width="37px" height="37px" alt="Best Ecommerce services in jaipur"></a>
                             </span>&#160
-                            <span class="footer_socal">
-                                <a  href="/"><img src="/contant/image/socail/twitter.png" width="30px" height="30px" alt=""></a>
-                                <a class="img-top" href="/"><img src="/contant/image/socail/twitterba.png" width="37px" height="37px" alt=""></a>
+                            <span class="footer_socal" title="Twitter">
+                                <a  href="https://twitter.com/trusteepartner/" target="_blank"><img src="/contant/image/socail/twitter.png" width="30px" height="30px" alt="Ecommerce Photoshot Services"></a>
+                                <a class="img-top" href="https://twitter.com/trusteepartner/" target="_blank"><img src="/contant/image/socail/twitterba.png" width="37px" height="37px" alt="Ecommerce Seller Services"></a>
                             </span>
                             &#160
-                            <span class="footer_socal">
-                                <a  href="/"><img src="/contant/image/socail/insta.png" width="30px" height="30px" alt=""></a>
-                                <a class="img-top" href="/"><img src="/contant/image/socail/instaba.png" width="37px" height="37px" alt=""></a>
+                            <span class="footer_socal" title="Instagram">
+                                <a  href="https://www.instagram.com/trusteepartner/" target="_blank"><img src="/contant/image/socail/insta.png" width="30px" height="30px" alt="Seller Account Mangement"></a>
+                                <a class="img-top" href="https://www.instagram.com/trusteepartner/" target="_blank"><img src="/contant/image/socail/instaba.png" width="37px" height="37px" alt="ecommerce Services Provider Network"></a>
                             </span>
                         </li>
                     </ul>
@@ -1492,17 +1306,17 @@ function plusSlides(n) {
 
         </span>
 
-        <span class="forth_class">
+        <span class="forth_class" title="Map Location">
             <span class="name_quick">
                 <ul>
                     <li>
-                        <h2>OUR MAP LOACATION
+                        <h2> OUR MAP LOACATION 
                         <span class="arrow"></span></h2>
                     </li>
                 </ul>
                 <div class="map_inside">
                     
-                    <ul>
+                    <ul title="Trustee Partner">
                         <li>
                             <iframe class="footer_map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3503.739375685038!2d77.1607668!3d28.5775879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d08d179d37f%3A0x50de66393d0f317c!2sCredlegal!5e0!3m2!1sen!2sin!4v1634647017574!5m2!1sen!2sin"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </li><br>
@@ -1516,12 +1330,18 @@ function plusSlides(n) {
 <!--copyright page  footer-->
 
 	<footer class="copy_right_back">
-		<div class="copyright">Copyright &#169 2021&#8482 <span id="copy_2nd_line"><a style="text-decoration: none; color: black;" href="trusteepartner.in"><Trusteepartner class="in">Trusteepartner.in &#174</Trusteepartner></a> All rights reserved &#124</span></div>
-        <div class="design">Design and Developed By <span id="copy_3rd_line"><a href="trusteepartner.in/webdesgin.php"><u>Trustee Partner Pvt. Ltd. </u></a></span></div>
+		<div class="copyright" title="Copyright by Trustee Partner">
+            &#169 2018-2021 by <span id="copy_2nd_line"><a style="text-decoration: none; color: black;" href="/" target="_blank"><Trusteepartner class="in">trusteepartner.tech</Trusteepartner></a> &#124 All rights reserved &#124</span>
+        </div>
+        <div class="design" title="Design by Trustee Partner">
+            Design and Developed By <span id="copy_3rd_line"><a href="/web-design/" target="_blank"><u>Trustee Partner Pvt. Ltd. </u></a></span>
+        </div>
     </footer>
+
+
 <!--butoon to go top -->
 
-    <a href="https://wa.me/+918764667835?text=hi%20I%20am%20interested%20to%20join%20your%20team%20and%20sell%20products%20on%20an%20e-commerce%20site%20and%20I%20have%20a%20GST%20number%20please%20call%20me%20when%20you%20are%20free...">
+    <a href="https://wa.me/+918764667835?text=hii">
 <button id="whatsapp_button" title="Message me!!" type="button" ><span class="whatsapp_text">Message me on Whatsapp!!</span></button>
 </a>
 
@@ -1576,24 +1396,67 @@ function plusSlides(n) {
 
 
 <!--host server send entry of contact into-->
+
 <?php
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+require 'PHPMailer/Exception.php';
+require 'PHPMailer/SMTP.php';
+require 'PHPMailer/PHPMailer.php';
+
 if(isset($_POST['fname'] )&& isset($_POST['fmobile'] ) && isset($_POST['fsubject']) && isset($_POST['fmessage']))
 {
 
-   echo "<h2>Coming Here</h2>";
+   //echo "<h2>Coming Here</h2>";
 
 $ffname = $_POST['fname'];
 $ffmobile = $_POST['fmobile'];
 $ffsubject = $_POST['fsubject'];
 $ffmessage = $_POST['fmessage'];
 
+$mail = new PHPMailer(true);
 
 $conn = mysqli_connect("localhost","root","","homecont") or die("Couldn't connect");
 $db = mysqli_select_db($conn,"homecont") or die("Couldn't Connect");
-$query = "INSERT INTO contact(fname,fmobile,fsubject,fmessage) VALUES ('$ffname','$ffmobile','$ffsubject','$ffmessage')";
+$query = "INSERT INTO contact(name,mobile,subject,message) VALUES ('$ffname','$ffmobile','$ffsubject','$ffmessage')";
 $result = mysqli_query($conn,$query);
 
-echo "<meta http-equiv='refresh' content='0;url=http://localhost/listing.html'>";
+try {
+    //Server settings
+    //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'trusteepartner.autoreply@gmail.com';                     //SMTP username
+    $mail->Password   = 'autoreply@123';                               //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+    //Recipients
+    $mail->setFrom('trusteepartner.autoreply@gmail.com', 'TRUSTEE PARTNER');
+    $mail->addAddress('trusteepartner.autoreply@gmail.com', 'Home - get in touch');     //Add a recipient
+    
+
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    $mail->Subject = 'Home - get in touch';
+    $mail->Body    = "Name : $ffname <br> Number : $ffmobile <br> Mail : $ffsubject <br> Shop Name $ffmessage ";
+    
+
+    $mail->send();
+
+    echo "<script>alert('Form Submitted Successfully')</script>";
+
+} catch (Exception $e) {
+    echo "<script>alert('Form not Submitted. (Network error) Mailer Error: {$mail->ErrorInfo}')</script>";
+}
+
+
+
 }
 ?>
 

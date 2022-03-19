@@ -114,12 +114,24 @@
 }
 
 #evry-site-useimgae1, #evry-site-useimgae2, #evry-site-useimgae3, #evry-site-useimgae4{
-    background-image: url(/cheerful-man-pointing-finger-left-advertise-product.jpg);
     width: 25%;
     height: 500px;
     background-size: contain;
     background-repeat: no-repeat;
     margin: 4em 0px 2em 0px;
+}
+
+#evry-site-useimgae1{
+    background-image: url(/contant/image/servise/photoshot/all-in-one/amazon.jpg);
+}
+#evry-site-useimgae2{
+    background-image: url(/contant/image/servise/photoshot/all-in-one/flipkart.jpg);
+}
+#evry-site-useimgae3{
+    background-image: url(/contant/image/servise/photoshot/all-in-one/nykaa.jpg);
+}
+#evry-site-useimgae4{
+    background-image: url(/contant/image/servise/photoshot/all-in-one/myntra.jpg);
 }
 
 #demo-btn-cont-us{
@@ -134,7 +146,6 @@
 #demo-btn-cont-us:hover{
     text-decoration: underline;
     border: none;
-    opacity: 0.7;
 }
 
 #back-color-in-like-img{
@@ -174,7 +185,7 @@
 
 #quot-img-back{
     width: 100%;
-    background-image: url(/a.jpg);
+    background-image: url(/contant/image/servise/photoshot/take-photo-with-trustee-partner.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;

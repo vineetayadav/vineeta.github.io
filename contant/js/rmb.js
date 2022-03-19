@@ -1,4 +1,4 @@
-// copyright by trusteepartner.in 
+// copyright by trusteepartner.tech 
 //author - Priyanshu yadav
 // for more help contact - +91 6350029208
 

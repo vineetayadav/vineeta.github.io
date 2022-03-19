@@ -182,7 +182,7 @@ ul{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    rotate: -90deg;
+    transform: rotate(-90deg);
 }
 
 #up_button::after{
@@ -252,17 +252,8 @@ ul{
     position: absolute;
     z-index: 15;
   }
-  
-  #whatsapp_button:hover .whatsapp_text {
-    visibility: visible;
-    top: -20px;
-  }
-#up_button:hover .whatsapp_text{
-    visibility: visible;
-    width: 80px;
-    text-decoration: none;
-    transform: rotate(115deg);
-}
+
+
 
 
 

@@ -3,7 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+*::-moz-selection{
+    color: darkblue;
+    background: #ffb300;
+}
+*::selection{
+    color: darkblue;
+    background: #ffb300;
+}
 
 .jj{
     -webkit-touch-callout: none; /* iOS Safari */
